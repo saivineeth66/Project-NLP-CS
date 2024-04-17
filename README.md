@@ -8,9 +8,12 @@ Install the required Python package: pip install openai, func_timeout, datasets
 Use the following command to run the code with the desired configurations:
 python src/selection_math.py --start [start index] --end [end index] --dataset [dataset name] --backbone [ChatGPT or GPT-4] --cot_temperature [0 for greedy decoding, 0.5 for SC] --pal_temperature [0 for greedy decoding, 0.8 for SC] --sc_num [1 for greedy decoding. Others indicate SC samples.] --output_dir [output dir name] --key [OpenAI API Key] 
 
+## Evaluating
+python src/evaluate.py --input_path output/chatgpt/{outputdatasetName}  --dataset_type 'math'
+
 
 ## Latest news-
-You cannot implement Codex (code-davinci-002) as the API usage and model is deprecated from March23, 2023.  
+Use gpt3.5(chatGPT) and gpt4 You cannot implement Codex (code-davinci-002) as the API usage and model is deprecated from March23, 2023.  
 
 ## Citation
 
