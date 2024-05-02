@@ -372,7 +372,7 @@ if __name__ == '__main__':
     parser.add_argument('--end', type=int, default=-1)
     parser.add_argument('--dataset', type=str, choices=[
                         'gsm8k', 'svamp', 'asdiv', 'singleeq', 'singleop',
-                        'singleaddsub', 'multiarith'], default='gsm8k')
+                        'singleaddsub', 'multiarith','translations_hindi'], default='gsm8k')
     parser.add_argument('--backbone', type=str,
                         choices=['chatgpt', 'gpt4'], default='gpt4')
     parser.add_argument('--cot_temperature', type=float, default=0.)
@@ -415,6 +415,8 @@ if __name__ == '__main__':
         dataset = jsonlines_load('dataset/single_addsub.jsonl')
     elif dataset_name == 'multiarith':
         dataset = jsonlines_load('dataset/multiarith.jsonl')
+    elif dataset_name == 'translations_hindi':
+        dataset = jsonlines_load('dataset/translations_hindi.jsonl')
 
     # === slice data based on start and end ===
     total_num = len(dataset)

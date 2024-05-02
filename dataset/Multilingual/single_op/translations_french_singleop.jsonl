@@ -1,0 +1,562 @@
+{"index": 0, "question": "S'il y a 7 capsules de bouteilles dans une bo\u00eete et que Linda met 7 capsules de bouteilles suppl\u00e9mentaires \u00e0 l'int\u00e9rieur, combien de capsules de bouteilles y a-t-il dans la bo\u00eete ?", "answer": 14.0}
+{"index": 1, "question": "Jos\u00e9 commence avec 7 capsules de bouteilles. Il en re\u00e7oit 2 de plus de Rebecca. Avec combien de capsules de bouteilles Jos\u00e9 termine-t-il ?", "answer": 9.0}
+{"index": 2, "question": "Bridget poss\u00e8de 4 quilles. Henry poss\u00e8de 4 quilles. Si Henry donne toutes ses quilles \u00e0 Bridget, combien de quilles Bridget aura-t-elle\u00a0?", "answer": 8.0}
+{"index": 3, "question": "Brenda commence avec 7 quilles. Elle en ach\u00e8te 8 de plus. Avec combien de quilles Brenda termine-t-elle ?", "answer": 15.0}
+{"index": 4, "question": "Il y a 4 cartes. 3 cartes suppl\u00e9mentaires sont ajout\u00e9es. Combien y en a-t-il au total ?", "answer": 7.0}
+{"index": 5, "question": "Il y a 4 billes. 7 billes suppl\u00e9mentaires sont ajout\u00e9es. Combien y en a-t-il au total ?", "answer": 11.0}
+{"index": 6, "question": "Il y a 8 oranges. 8 oranges suppl\u00e9mentaires sont ajout\u00e9es. Combien y en a-t-il au total ?", "answer": 16.0}
+{"index": 7, "question": "Carol ramasse 2 cacahu\u00e8tes. Le p\u00e8re de Carol en donne 5 de plus. Combien de cacahu\u00e8tes Carol a-t-elle ?", "answer": 7.0}
+{"index": 8, "question": "Il y a 9 cartes. 4 cartes suppl\u00e9mentaires sont ajout\u00e9es. Combien y en a-t-il au total ?", "answer": 13.0}
+{"index": 9, "question": "S'il y a 7 capsules de bouteilles dans une bo\u00eete et que Linda met 7 capsules de bouteilles suppl\u00e9mentaires \u00e0 l'int\u00e9rieur, combien de capsules de bouteilles y a-t-il dans la bo\u00eete ?", "answer": 14.0}
+{"index": 10, "question": "Bobby r\u00e9cup\u00e8re 2 blocs. Le p\u00e8re de Bobby en donne 6 de plus. Combien de blocs Bobby a-t-il ?", "answer": 8.0}
+{"index": 11, "question": "Peter commence avec 8 gommes. Bridget en donne 3 de plus \u00e0 Peter. Avec combien de gommes Peter termine-t-il ?", "answer": 11.0}
+{"index": 12, "question": "S\u2019il y a 7 crayons dans une bo\u00eete et que G\u00e9rald y met 6 autres crayons, combien y a-t-il de crayons dans la bo\u00eete ?", "answer": 13.0}
+{"index": 13, "question": "Michelle a 2 crayons. Janet a 2 crayons de couleur. Si Janet donne tous ses crayons \u00e0 Michelle, combien de crayons Michelle aura-t-elle ?", "answer": 4.0}
+{"index": 14, "question": "Anna r\u00e9cup\u00e8re 6 blocs. Le p\u00e8re d'Anna en donne 8 de plus. Combien de blocs Anna poss\u00e8de-t-elle ?", "answer": 14.0}
+{"index": 15, "question": "Donald a 4 oranges. Il en trouve 5 autres. Combien d\u2019oranges Donald a-t-il en tout ?", "answer": 9.0}
+{"index": 16, "question": "S\u2019il y a 7 \u0153ufs dans une bo\u00eete et que Daniel y met 4 \u0153ufs suppl\u00e9mentaires, combien d\u2019\u0153ufs y a-t-il dans la bo\u00eete ?", "answer": 11.0}
+{"index": 17, "question": "Wayne r\u00e9cup\u00e8re 9 blocs. Le p\u00e8re de Wayne en donne 6 de plus \u00e0 Wayne. Combien de blocs Wayne poss\u00e8de-t-il ?", "answer": 15.0}
+{"index": 18, "question": "Bridget poss\u00e8de 4 quilles. Henry poss\u00e8de 4 quilles. Si Henry donne toutes ses quilles \u00e0 Bridget, combien de quilles Bridget aura-t-elle\u00a0?", "answer": 8.0}
+{"index": 19, "question": "Ralph r\u00e9cup\u00e8re 4 cartes. Le p\u00e8re de Ralph en donne 8 de plus. Combien de cartes Ralph poss\u00e8de-t-il ?", "answer": 12.0}
+{"index": 20, "question": "Martha commence avec 3 cartes. Elle en re\u00e7oit 76 de plus d'Emily. Avec combien de cartes Martha termine-t-elle ?", "answer": 79.0}
+{"index": 21, "question": "Il y a 86 blocs. 9 blocs suppl\u00e9mentaires sont ajout\u00e9s. Combien y en a-t-il au total ?", "answer": 95.0}
+{"index": 22, "question": "Cheryl commence avec 8 quilles. Kathryn donne \u00e0 Cheryl 89 de plus. Avec combien de quilles Cheryl termine-t-elle ?", "answer": 97.0}
+{"index": 23, "question": "S\u2019il y a 76 gommes dans une bo\u00eete et que Patrick y met 9 gommes suppl\u00e9mentaires, combien y a-t-il de gommes dans la bo\u00eete ?", "answer": 85.0}
+{"index": 24, "question": "Amy commence avec 7 cacahu\u00e8tes. Gerald en donne 55 de plus \u00e0 Amy. Avec combien de cacahu\u00e8tes Amy termine-t-elle ?", "answer": 62.0}
+{"index": 25, "question": "Teresa commence avec 52 bananes. Elle en re\u00e7oit 2 de plus de Rachel. Avec combien de bananes Teresa termine-t-elle ?", "answer": 54.0}
+{"index": 26, "question": "Gloria a 2 crayons. Lisa a 99 crayons. Si Lisa donne tous ses crayons \u00e0 Gloria, combien de crayons Gloria aura-t-elle ?", "answer": 101.0}
+{"index": 27, "question": "Mildred ramasse 77 oranges. Le p\u00e8re de Mildred en donne 2 de plus \u00e0 Mildred. Combien d\u2019oranges Mildred a-t-elle ?", "answer": 79.0}
+{"index": 28, "question": "Anna commence avec 5 bonbons. Elle en re\u00e7oit 86 de plus de Larry. Avec combien de bonbons Anna termine-t-elle ?", "answer": 91.0}
+{"index": 29, "question": "Martha a 2 cacahu\u00e8tes. Joyce a 26 cacahu\u00e8tes. Si Joyce donne toutes ses cacahu\u00e8tes \u00e0 Martha, combien de cacahu\u00e8tes Martha aura-t-elle ?", "answer": 28.0}
+{"index": 30, "question": "Kevin commence avec 7 cartes. Il en trouve 47 autres. Avec combien de cartes Kevin termine-t-il ?", "answer": 54.0}
+{"index": 31, "question": "Josu\u00e9 a 40 capsules de bouteilles. Il en ach\u00e8te 7 de plus. Combien de capsules de bouteilles Joshua a-t-il en tout\u00a0?", "answer": 47.0}
+{"index": 32, "question": "Nicolas commence avec 8 capsules de bouteilles. Il en re\u00e7oit 85 de plus de Catherine. Avec combien de capsules de bouteilles Nicolas termine-t-il ?", "answer": 93.0}
+{"index": 33, "question": "Mary commence avec 27 \u0153ufs. Elle en trouve 4 autres. Avec combien d\u2019\u0153ufs Mary termine-t-elle ?", "answer": 31.0}
+{"index": 34, "question": "Shirley commence avec 98 \u0153ufs. Elle en ach\u00e8te 8 de plus. Avec combien d\u2019\u0153ufs Shirley termine-t-elle ?", "answer": 106.0}
+{"index": 35, "question": "William commence avec 15 tickets. Il en ach\u00e8te 3 autres. Avec combien de billets William termine-t-il ?", "answer": 18.0}
+{"index": 36, "question": "Harry commence avec 79 pommes. Il en ach\u00e8te 5 de plus. Avec combien de pommes Harry termine-t-il ?", "answer": 84.0}
+{"index": 37, "question": "Barbara a 9 bonbons. Elle en ach\u00e8te 18 de plus. Combien de bonbons Barbara a-t-elle en tout ?", "answer": 27.0}
+{"index": 38, "question": "Eug\u00e8ne poss\u00e8de 51 crayons. Il en re\u00e7oit 6 de plus de Joyce. Combien de crayons Eug\u00e8ne poss\u00e8de-t-il en tout ?", "answer": 57.0}
+{"index": 39, "question": "Anthony a 9 crayons. Kathryn en donne 56 de plus \u00e0 Anthony. Combien de crayons Anthony a-t-il en tout ?", "answer": 65.0}
+{"index": 40, "question": "Andrew commence avec 8 \u0153ufs. Il en ach\u00e8te 62 de plus. Avec combien d\u2019\u0153ufs Andrew termine-t-il ?", "answer": 70.0}
+{"index": 41, "question": "Annie commence avec 4 crayons. Matthew en donne 36 de plus \u00e0 Annie. Avec combien de crayons Annie termine-t-elle ?", "answer": 40.0}
+{"index": 42, "question": "Angela a 11 billets. Annie en donne 4 de plus \u00e0 Angela. Combien de billets Angela a-t-elle en tout ?", "answer": 15.0}
+{"index": 43, "question": "Charles a 4 pommes. Jessica en donne 39 de plus \u00e0 Charles. Combien de pommes Charles a-t-il en tout ?", "answer": 43.0}
+{"index": 44, "question": "Lisa commence avec 91 bananes. Maria en donne 8 de plus \u00e0 Lisa. Avec combien de bananes Lisa termine-t-elle ?", "answer": 99.0}
+{"index": 45, "question": "Evelyn commence avec 18 capsules de bouteilles. Elle en trouve 63 autres. Avec combien de capsules de bouteilles Evelyn termine-t-elle ?", "answer": 81.0}
+{"index": 46, "question": "Brenda a 34 pommes. Elle en re\u00e7oit 37 de plus de Willie. Combien de pommes Brenda a-t-elle en tout\u00a0?", "answer": 71.0}
+{"index": 47, "question": "Joseph a 67 bonbons. Kathy en donne 38 de plus \u00e0 Joseph. Combien de bonbons Joseph a-t-il en tout ?", "answer": 105.0}
+{"index": 48, "question": "Janet a 57 pommes. Elle en trouve 95 autres. Combien de pommes Janet a-t-elle en tout ?", "answer": 152.0}
+{"index": 49, "question": "Nancy commence avec 91 capsules de bouteilles. Elle en trouve 88 autres. Avec combien de capsules de bouteilles Nancy termine-t-elle ?", "answer": 179.0}
+{"index": 50, "question": "Harold a 53 billes. Il en re\u00e7oit 16 de plus de Steve. Combien de billes Harold poss\u00e8de-t-il en tout ?", "answer": 69.0}
+{"index": 51, "question": "Denise sort 5 bananes d'un bocal. Il y avait \u00e0 l\u2019origine 46 bananes dans le pot. Combien de bananes reste-t-il dans le pot ?", "answer": 41.0}
+{"index": 52, "question": "Arthur sort 4 crayons d'un pot. Il y avait \u00e0 l\u2019origine 87 crayons dans le pot. Combien de crayons reste-t-il dans le pot ?", "answer": 83.0}
+{"index": 53, "question": "Joyce commence avec 75 pommes. Elle en donne 52 \u00e0 Larry. Avec combien de pommes Joyce termine-t-elle ?", "answer": 23.0}
+{"index": 54, "question": "Rachel retire 47 capsules de bouteilles d'un pot. Il y avait \u00e0 l\u2019origine 87 capsules de bouteilles dans le pot. Combien de capsules de bouteilles reste-t-il dans le pot ?", "answer": 40.0}
+{"index": 55, "question": "Anne p\u00e8se 67 livres. Douglas p\u00e8se 52 livres. \u00c0 quel point Anne est-elle plus lourde que Douglas ?", "answer": 15.0}
+{"index": 56, "question": "Jessica p\u00e8se 49 livres. Thomas p\u00e8se 44 livres. \u00c0 quel point Jessica est-elle plus lourde que Thomas ?", "answer": 5.0}
+{"index": 57, "question": "Debra sort 22 pommes d'un pot. Il y avait \u00e0 l\u2019origine 57 pommes dans le pot. Combien de pommes reste-t-il dans le pot ?", "answer": 35.0}
+{"index": 58, "question": "Virginia commence avec 96 \u0153ufs. Amy en prend 3. Avec combien d\u2019\u0153ufs Virginia termine-t-elle ?", "answer": 93.0}
+{"index": 59, "question": "Donna p\u00e8se 69 livres. Willie p\u00e8se 51 livres. \u00c0 quel point Donna est-elle plus lourde que Willie ?", "answer": 18.0}
+{"index": 60, "question": "Il y a 47 \u0153ufs dans une bo\u00eete. Harry prend 5 \u0153ufs. Combien en reste-t-il?", "answer": 42.0}
+{"index": 61, "question": "Edward commence avec 92 \u0153ufs. Il en donne 40 \u00e0 Phillip. Avec combien d\u2019\u0153ufs Edward termine-t-il ?", "answer": 52.0}
+{"index": 62, "question": "David sort 7 \u0153ufs d'un bocal. Il y avait \u00e0 l\u2019origine 27 \u0153ufs dans le pot. Combien d\u2019\u0153ufs reste-t-il dans le pot ?", "answer": 20.0}
+{"index": 63, "question": "Il y a 79 crayons dans une bo\u00eete. Eric prend 4 crayons. Combien en reste-t-il?", "answer": 75.0}
+{"index": 64, "question": "Jane commence avec 87 crayons. 7 sont mang\u00e9s par un hippopotame. Avec combien de crayons Jane termine-t-elle ?", "answer": 80.0}
+{"index": 65, "question": "Roger a 95 bonbons. Il en donne 3 \u00e0 St\u00e9phanie. Combien de bonbons Roger aura-t-il ?", "answer": 92.0}
+{"index": 66, "question": "Il y a 96 oranges dans une bo\u00eete. Jonathan prend 45 oranges. Combien en reste-t-il?", "answer": 51.0}
+{"index": 67, "question": "Marie commence avec 95 gommes. Elle en perd 42. Avec combien de gommes Marie termine-t-elle ?", "answer": 53.0}
+{"index": 68, "question": "Il y a 22 oranges dans une bo\u00eete. Paula prend 7 oranges. Combien en reste-t-il?", "answer": 15.0}
+{"index": 69, "question": "Melissa a 88 bananes. Elle en partage 4 avec Joshua. Combien de bananes Melissa aura-t-elle ?", "answer": 84.0}
+{"index": 70, "question": "Larry a 67 cartes. Dennis en prend 9. Combien de cartes Larry aura-t-il ?", "answer": 58.0}
+{"index": 71, "question": "John p\u00e8se 81 livres. Roy p\u00e8se 4 livres. \u00c0 quel point John est-il plus lourd que Roy ?", "answer": 77.0}
+{"index": 72, "question": "Larry commence avec 93 autocollants. Il en perd 6. Avec combien d\u2019autocollants Larry termine-t-il ?", "answer": 87.0}
+{"index": 73, "question": "Carlos commence avec 39 bananes. 3 sont mang\u00e9s par un hippopotame. Avec combien de bananes Carlos termine-t-il ?", "answer": 36.0}
+{"index": 74, "question": "Patricia commence avec 76 bonbons. Albert en prend 5. Avec combien de bonbons Patricia termine-t-elle ?", "answer": 71.0}
+{"index": 75, "question": "Il y a 16 capsules de bouteilles dans une bo\u00eete. Marvin prend 6 capsules de bouteilles. Combien en reste-t-il?", "answer": 10.0}
+{"index": 76, "question": "Ernest commence avec 17 crayons. Jennifer en prend 6. Avec combien de crayons Ernest termine-t-il ?", "answer": 11.0}
+{"index": 77, "question": "Mildred p\u00e8se 59 livres. Carol p\u00e8se 9 livres. \u00c0 quel point Mildred est-elle plus lourde que Carol ?", "answer": 50.0}
+{"index": 78, "question": "Diana commence avec 65 capsules de bouteilles. 4 sont mang\u00e9s par un hippopotame. Avec combien de capsules de bouteilles Diana termine-t-elle ?", "answer": 61.0}
+{"index": 79, "question": "Ruby a 63 pommes. Emily en enl\u00e8ve 55. Combien de pommes Ruby aura-t-elle ?", "answer": 8.0}
+{"index": 80, "question": "Craig commence avec 5 quilles. 2 sont mang\u00e9s par un hippopotame. Avec combien de quilles Craig termine-t-il ?", "answer": 3.0}
+{"index": 81, "question": "Steve a 46 oranges. Il en partage 4 avec Patrick. Combien d\u2019oranges Steve aura-t-il ?", "answer": 42.0}
+{"index": 82, "question": "Bridget p\u00e8se 39 livres. Martha p\u00e8se 2 livres. \u00c0 quel point Bridget est-elle plus lourde que Martha ?", "answer": 37.0}
+{"index": 83, "question": "Brian a 76 cartes. Wayne en enl\u00e8ve 59. Combien de cartes Brian aura-t-il ?", "answer": 17.0}
+{"index": 84, "question": "Billy a 62 crayons. 52 sont mang\u00e9s par un hippopotame. Combien de crayons Billy aura-t-il ?", "answer": 10.0}
+{"index": 85, "question": "Pamela commence avec 30 capsules de bouteilles. Jean en enl\u00e8ve 26. Avec combien de capsules de bouteilles Pamela termine-t-elle ?", "answer": 4.0}
+{"index": 86, "question": "Katherine a 34 capsules de bouteilles. 8 sont mang\u00e9s par un hippopotame. Combien de capsules de bouteilles Katherine aura-t-elle ?", "answer": 26.0}
+{"index": 87, "question": "Melissa a 70 oranges. John en retire 19. Combien d\u2019oranges Melissa aura-t-elle ?", "answer": 51.0}
+{"index": 88, "question": "Norma commence avec 47 bananes. Elle en perd 45. Avec combien de bananes Norma finit-elle ?", "answer": 2.0}
+{"index": 89, "question": "Willie commence avec 36 autocollants. Il donne 7 \u00e0 Emily. Avec combien d\u2019autocollants Willie termine-t-il ?", "answer": 29.0}
+{"index": 90, "question": "Aaron commence avec 81 gommes. Il donne 34 \u00e0 Doris. Avec combien de gommes Aaron termine-t-il ?", "answer": 47.0}
+{"index": 91, "question": "Charles poss\u00e8de 25 quilles. Diana en prend 7. Combien de quilles Charles aura-t-il ?", "answer": 18.0}
+{"index": 92, "question": "Norma poss\u00e8de 88 cartes. Elle en perd 70. Combien de cartes Norma aura-t-elle ?", "answer": 18.0}
+{"index": 93, "question": "Pamela poss\u00e8de 50 quilles. Elle donne 7 \u00e0 Karen. Combien de quilles Pamela aura-t-elle ?", "answer": 43.0}
+{"index": 94, "question": "Evelyn commence avec 76 quilles. Elle en partage 72 avec Christine. Avec combien de quilles Evelyn termine-t-elle ?", "answer": 4.0}
+{"index": 95, "question": "Helen commence avec 82 cartes. Gary en retire 9. Avec combien de cartes Helen termine-t-elle ?", "answer": 73.0}
+{"index": 96, "question": "Ruth commence avec 89 pommes. Elle en partage 5 avec Peter. Avec combien de pommes Ruth termine-t-elle ?", "answer": 84.0}
+{"index": 97, "question": "Carlos a 58 blocs. Il en donne 21 \u00e0 Rachel. De combien de blocs Carlos disposera-t-il\u00a0?", "answer": 37.0}
+{"index": 98, "question": "Jesse commence avec 78 crayons. Il en donne 44 \u00e0 Josu\u00e9. Avec combien de crayons Jesse termine-t-il ?", "answer": 34.0}
+{"index": 99, "question": "Roger a 92 blocs. 2 sont mang\u00e9s par un hippopotame. De combien de blocs Roger disposera-t-il ?", "answer": 90.0}
+{"index": 100, "question": "Heather commence avec 86 blocs. Elle en partage 41 avec Jos\u00e9. Avec combien de blocs Heather termine-t-elle ?", "answer": 45.0}
+{"index": 101, "question": "Ralph commence avec 74 cacahu\u00e8tes. Il en perd 59. Avec combien de cacahu\u00e8tes Ralph termine-t-il ?", "answer": 15.0}
+{"index": 102, "question": "Jack commence avec 62 billes. Il en partage 33 avec Rebecca. Avec combien de billes Jack termine-t-il ?", "answer": 29.0}
+{"index": 103, "question": "Clarence a 99 billets. Il donne 7 \u00e0 Eug\u00e8ne. Combien de billets Clarence aura-t-il ?", "answer": 92.0}
+{"index": 104, "question": "Sean a 55 blocs. 29 sont mang\u00e9s par un hippopotame. De combien de blocs Sean aura-t-il ?", "answer": 26.0}
+{"index": 105, "question": "Tina a 82 bananes. Elle en re\u00e7oit 3 de plus de Joyce. Combien de bananes Tina a-t-elle en tout\u00a0?", "answer": 85.0}
+{"index": 106, "question": "Janet a 3 autocollants. Elle en re\u00e7oit 53 de plus de Ruth. Combien d\u2019autocollants Janet a-t-elle en tout\u00a0?", "answer": 56.0}
+{"index": 107, "question": "Jennifer commence avec 7 pommes. Elle en trouve 74 autres. Avec combien de pommes Jennifer termine-t-elle ?", "answer": 81.0}
+{"index": 108, "question": "Heather a 60 oranges. Russell en prend 35. Combien d\u2019oranges Heather aura-t-elle ?", "answer": 25.0}
+{"index": 109, "question": "Helen commence avec 9 oranges. Elle en re\u00e7oit 29 de plus d'Ann. Avec combien d\u2019oranges Helen termine-t-elle ?", "answer": 38.0}
+{"index": 110, "question": "William a 2 capsules de bouteilles. Il en ach\u00e8te 41 de plus. Combien de capsules de bouteilles William poss\u00e8de-t-il en tout\u00a0?", "answer": 43.0}
+{"index": 111, "question": "Dorothy a 72 cartes. Elle en donne 5 \u00e0 Harold. Combien de cartes Dorothy aura-t-elle ?", "answer": 67.0}
+{"index": 112, "question": "Sara a 10 billes. Elle en perd 7. Combien de billes Sara aura-t-elle ?", "answer": 3.0}
+{"index": 113, "question": "Jennifer a 72 cartes. 61 sont mang\u00e9s par un hippopotame. Combien de cartes Jennifer aura-t-elle ?", "answer": 11.0}
+{"index": 114, "question": "Wanda a 4 blocs. Theresa donne \u00e0 Wanda 79 de plus. Combien de blocs Wanda poss\u00e8de-t-elle en tout ?", "answer": 83.0}
+{"index": 115, "question": "William a 10 billes. Il en partage 3 avec Theresa. Combien de billes William aura-t-il ?", "answer": 7.0}
+{"index": 116, "question": "Larry commence avec 91 cartes. 17 sont mang\u00e9s par un hippopotame. Avec combien de cartes Larry termine-t-il ?", "answer": 74.0}
+{"index": 117, "question": "Sarah a 26 capsules de bouteilles. Elle en ach\u00e8te 3 de plus. Combien de capsules de bouteilles Sarah a-t-elle en tout\u00a0?", "answer": 29.0}
+{"index": 118, "question": "Il y a 3 \u0153ufs dans chaque bo\u00eete. Combien y a-t-il d\u2019\u0153ufs dans 2 bo\u00eetes ?", "answer": 6.0}
+{"index": 119, "question": "Chaque bouchon de bouteille co\u00fbte 2,00 $. Combien co\u00fbtent 6 capsules de bouteilles ?", "answer": 12.0}
+{"index": 120, "question": "Chaque enfant a 3 oranges. S\u2019il y a 4 enfants, combien d\u2019oranges y a-t-il au total ?", "answer": 12.0}
+{"index": 121, "question": "Chaque banane co\u00fbte 5,00 $. Combien co\u00fbtent 4 bananes ?", "answer": 20.0}
+{"index": 122, "question": "Chaque billet co\u00fbte 9,00 $. Combien co\u00fbtent 4 billets ?", "answer": 36.0}
+{"index": 123, "question": "Chaque bouchon de bouteille co\u00fbte 5,00 $. Combien co\u00fbtent 5 capsules de bouteilles ?", "answer": 25.0}
+{"index": 124, "question": "Michelle a 7 bo\u00eetes de crayons. Chaque bo\u00eete contient 5 crayons. Combien de crayons Michelle a-t-elle ?", "answer": 35.0}
+{"index": 125, "question": "Il y a 8 billes dans chaque bo\u00eete. Combien y a-t-il de billes dans 6 cases ?", "answer": 48.0}
+{"index": 126, "question": "Chaque enfant a 2 bonbons. S\u2019il y a 9 enfants, combien y a-t-il de bonbons au total ?", "answer": 18.0}
+{"index": 127, "question": "Chaque enfant dispose de 5 capsules de bouteilles. S\u2019il y a 9 enfants, combien y a-t-il de capsules de bouteilles au total\u00a0?", "answer": 45.0}
+{"index": 128, "question": "Chaque enfant dispose de 6 crayons. S\u2019il y a 2 enfants, combien y a-t-il de crayons au total ?", "answer": 12.0}
+{"index": 129, "question": "Chaque enfant dispose de 5 capsules de bouteilles. S\u2019il y a 9 enfants, combien y a-t-il de capsules de bouteilles au total\u00a0?", "answer": 45.0}
+{"index": 130, "question": "Chaque billet co\u00fbte 9,00 $. Combien co\u00fbtent 4 billets ?", "answer": 36.0}
+{"index": 131, "question": "St\u00e9phanie est all\u00e9e au magasin 8 fois le mois dernier. Elle ach\u00e8te 2 oranges \u00e0 chaque fois qu'elle va au magasin. Combien d\u2019oranges St\u00e9phanie a-t-elle achet\u00e9e le mois dernier ?", "answer": 16.0}
+{"index": 132, "question": "Sarah a 7 bo\u00eetes de pommes. Chaque bo\u00eete contient 7 pommes. Combien de pommes Sarah a-t-elle ?", "answer": 49.0}
+{"index": 133, "question": "Martin a 8 bo\u00eetes de crayons. Chaque bo\u00eete contient 7 crayons. Combien de crayons de couleur Martin a-t-il ?", "answer": 56.0}
+{"index": 134, "question": "Il y a 9 capsules de bouteilles dans chaque bo\u00eete. Combien y a-t-il de capsules de bouteilles dans 6 bo\u00eetes ?", "answer": 54.0}
+{"index": 135, "question": "Paula a 6 bo\u00eetes de cacahu\u00e8tes. Chaque bo\u00eete contient 4 cacahu\u00e8tes. Combien de cacahu\u00e8tes Paula a-t-elle ?", "answer": 24.0}
+{"index": 136, "question": "Eric a 3 bo\u00eetes de crayons. Chaque bo\u00eete contient 9 crayons. Combien de crayons Eric a-t-il ?", "answer": 27.0}
+{"index": 137, "question": "Il y a 6 billes dans chaque bo\u00eete. Combien y a-t-il de billes dans 3 bo\u00eetes ?", "answer": 18.0}
+{"index": 138, "question": "Kimberly est all\u00e9e au magasin 3 fois le mois dernier. Elle ach\u00e8te 7 cacahu\u00e8tes \u00e0 chaque fois qu'elle va au magasin. Combien de cacahu\u00e8tes Kimberly a-t-elle achet\u00e9es le mois dernier\u00a0?", "answer": 21.0}
+{"index": 139, "question": "Ronald est all\u00e9 au magasin 2 fois le mois dernier. Il ach\u00e8te 10 bananes \u00e0 chaque fois qu'il va au magasin. Combien de bananes Ronald a-t-il achet\u00e9 le mois dernier ?", "answer": 20.0}
+{"index": 140, "question": "Kathleen est all\u00e9e au magasin 5 fois le mois dernier. Elle ach\u00e8te 5 capsules de bouteilles \u00e0 chaque fois qu'elle va au magasin. Combien de capsules de bouteilles Kathleen a-t-elle achet\u00e9es le mois dernier\u00a0?", "answer": 25.0}
+{"index": 141, "question": "Il y a 4 crayons dans chaque bo\u00eete. Combien de crayons y a-t-il dans 3 bo\u00eetes ?", "answer": 12.0}
+{"index": 142, "question": "Kimberly est all\u00e9e au magasin 3 fois le mois dernier. Elle ach\u00e8te 7 cacahu\u00e8tes \u00e0 chaque fois qu'elle va au magasin. Combien de cacahu\u00e8tes Kimberly a-t-elle achet\u00e9es le mois dernier\u00a0?", "answer": 21.0}
+{"index": 143, "question": "L'\u00e9cole pr\u00e9voit une sortie scolaire. Il y a 14 \u00e9l\u00e8ves et 2 si\u00e8ges dans chaque autobus scolaire. Combien de bus faut-il pour faire le voyage ?", "answer": 7.0}
+{"index": 144, "question": "Betty a 24 oranges stock\u00e9es dans des bo\u00eetes. S\u2019il y a 3 cartons, combien d\u2019oranges doivent contenir chaque carton ?", "answer": 8.0}
+{"index": 145, "question": "L'\u00e9cole pr\u00e9voit une sortie scolaire. Il y a 9 \u00e9l\u00e8ves et 3 si\u00e8ges dans chaque autobus scolaire. Combien de bus faut-il pour faire le voyage ?", "answer": 3.0}
+{"index": 146, "question": "Il y a 2 \u00e9l\u00e8ves dans la classe et 18 crayons. Si les crayons sont r\u00e9partis \u00e9galement entre les \u00e9l\u00e8ves, combien chaque \u00e9l\u00e8ve en re\u00e7oit-il\u00a0?", "answer": 9.0}
+{"index": 147, "question": "Il y a 9 \u00e9tudiants dans la classe et 81 billets. Si les billets sont r\u00e9partis \u00e9galement entre les \u00e9tudiants, combien chaque \u00e9tudiant en obtient-il\u00a0?", "answer": 9.0}
+{"index": 148, "question": "Il y a 35 capsules de bouteilles dans la collection de capsules de bouteilles Beverly. Si les capsules de bouteilles sont organis\u00e9es en 7 groupes, quelle est la taille de chaque groupe\u00a0?", "answer": 5.0}
+{"index": 149, "question": "Jeffrey souhaite diviser une collection de capsules de bouteilles en groupes de 2. Jeffrey a 12 capsules de bouteilles. Combien de groupes seront cr\u00e9\u00e9s ?", "answer": 6.0}
+{"index": 150, "question": "Il y a 9 \u00e9tudiants dans la classe et 81 billets. Si les billets sont r\u00e9partis \u00e9galement entre les \u00e9tudiants, combien chaque \u00e9tudiant en obtient-il\u00a0?", "answer": 9.0}
+{"index": 151, "question": "Peter a 3 bonbons stock\u00e9s dans des bo\u00eetes. S\u2019il y a 3 bo\u00eetes, combien de bonbons doivent contenir chaque bo\u00eete ?", "answer": 1.0}
+{"index": 152, "question": "Il y a 7 \u00e9l\u00e8ves dans la classe et 42 pommes. Si les pommes sont r\u00e9parties \u00e9galement entre les \u00e9l\u00e8ves, combien chaque \u00e9l\u00e8ve en aura-t-il ?", "answer": 6.0}
+{"index": 153, "question": "Martha invite 4 amis \u00e0 une f\u00eate. Elle a 12 cookies. Combien de cookies chaque ami recevra-t-il\u00a0?", "answer": 3.0}
+{"index": 154, "question": "Jesse a 21 bananes. S\u2019il les partage entre 3 amis, combien de bananes chaque ami re\u00e7oit-il ?", "answer": 7.0}
+{"index": 155, "question": "Il y a 7 \u00e9l\u00e8ves dans la classe et 56 \u0153ufs. Si les \u0153ufs sont r\u00e9partis \u00e9galement entre les \u00e9l\u00e8ves, combien chaque \u00e9l\u00e8ve en re\u00e7oit-il ?", "answer": 8.0}
+{"index": 156, "question": "Elizabeth invite 5 amis \u00e0 une f\u00eate. Elle a 5 cookies. Combien de cookies chaque ami recevra-t-il\u00a0?", "answer": 1.0}
+{"index": 157, "question": "Il y a 72 cartes dans la collection de cartes de Jean. Si les cartes sont organis\u00e9es en 9 groupes, quelle est la taille de chaque groupe\u00a0?", "answer": 8.0}
+{"index": 158, "question": "\u00c9ric souhaite diviser une collection de cacahu\u00e8tes en groupes de 8. \u00c9ric poss\u00e8de 64 cacahu\u00e8tes. Combien de groupes seront cr\u00e9\u00e9s ?", "answer": 8.0}
+{"index": 159, "question": "Henri souhaite diviser une collection de crayons de couleur en groupes de 6. Henri a 42 crayons de couleur. Combien de groupes seront cr\u00e9\u00e9s ?", "answer": 7.0}
+{"index": 160, "question": "Jack invite 4 amis \u00e0 une f\u00eate. Il a 4 cookies. Combien de cookies chaque ami recevra-t-il\u00a0?", "answer": 1.0}
+{"index": 161, "question": "Harry invite 3 amis \u00e0 une f\u00eate. Il a 12 cookies. Combien de cookies chaque ami recevra-t-il\u00a0?", "answer": 4.0}
+{"index": 162, "question": "Il y a 30 bonbons dans la collection de bonbons de Kathy. Si les bonbons sont organis\u00e9s en 10 groupes, quelle est la taille de chaque groupe\u00a0?", "answer": 3.0}
+{"index": 163, "question": "Deborah invite 10 amis \u00e0 une f\u00eate. Elle a 80 cookies. Combien de cookies chaque ami recevra-t-il\u00a0?", "answer": 8.0}
+{"index": 164, "question": "L'\u00e9cole pr\u00e9voit une sortie scolaire. Il y a 28 \u00e9l\u00e8ves et 7 si\u00e8ges dans chaque autobus scolaire. Combien de bus faut-il pour faire le voyage ?", "answer": 4.0}
+{"index": 165, "question": "Il y a 36 bananes dans la collection de bananes de Diane. Si les bananes sont organis\u00e9es en 6 groupes, quelle est la taille de chaque groupe\u00a0?", "answer": 6.0}
+{"index": 166, "question": "Il y a 36 bananes dans la collection de bananes de Diane. Si les bananes sont organis\u00e9es en 6 groupes, quelle est la taille de chaque groupe\u00a0?", "answer": 6.0}
+{"index": 167, "question": "Louise poss\u00e8de 42 oranges stock\u00e9es dans des caisses. S\u2019il y a 7 cartons, combien d\u2019oranges doivent contenir chaque carton ?", "answer": 6.0}
+{"index": 168, "question": "L'\u00e9cole pr\u00e9voit une sortie scolaire. Il y a 45 \u00e9l\u00e8ves et 9 si\u00e8ges dans chaque autobus scolaire. Combien de bus faut-il pour faire le voyage ?", "answer": 5.0}
+{"index": 169, "question": "Michael dispose de 16 blocs stock\u00e9s dans des bo\u00eetes. S\u2019il y a 8 cases, combien de blocs doivent contenir chaque case ?", "answer": 2.0}
+{"index": 170, "question": "Albert dispose de 35 oranges stock\u00e9es dans des caisses. S\u2019il y a 7 cartons, combien d\u2019oranges doivent contenir chaque carton ?", "answer": 5.0}
+{"index": 171, "question": "Lori a 30 billes. Si elle les partage entre 5 amis, combien de billes chaque ami re\u00e7oit-il ?", "answer": 6.0}
+{"index": 172, "question": "Brenda souhaite diviser une collection de gommes en groupes de 90. Brenda poss\u00e8de 270 gommes. Combien de groupes seront cr\u00e9\u00e9s ?", "answer": 3.0}
+{"index": 173, "question": "L'\u00e9cole pr\u00e9voit une sortie scolaire. Il y a 180 \u00e9l\u00e8ves et 60 si\u00e8ges dans chaque autobus scolaire. Combien de bus faut-il pour faire le voyage ?", "answer": 3.0}
+{"index": 174, "question": "Bonnie a 10 billets. Si elle les partage entre 2 amis, combien de billets chaque ami re\u00e7oit-il\u00a0?", "answer": 5.0}
+{"index": 175, "question": "Steven souhaite diviser une collection de cartes en groupes de 6. Steven a 30 cartes. Combien de groupes seront cr\u00e9\u00e9s ?", "answer": 5.0}
+{"index": 176, "question": "Eric poss\u00e8de 9306 gommes. S\u2019il les partage entre 99 amis, combien de gommes chaque ami recevra-t-il\u00a0?", "answer": 94.0}
+{"index": 177, "question": "Diana poss\u00e8de 3840 gommes. Si elle les partage entre 48 amis, combien de gommes chaque ami re\u00e7oit-il\u00a0?", "answer": 80.0}
+{"index": 178, "question": "Ashley a vendu 12 bo\u00eetes de Samoas. De combien de caisses de 12 bo\u00eetes, plus des bo\u00eetes suppl\u00e9mentaires, Ashley a-t-elle besoin\u00a0?", "answer": 1.0}
+{"index": 179, "question": "Ashley a vendu 12 bo\u00eetes de Samoas. De combien de caisses de 12 bo\u00eetes, plus des bo\u00eetes suppl\u00e9mentaires, Ashley a-t-elle besoin\u00a0?", "answer": 1.0}
+{"index": 180, "question": "Ashley a vendu 12 bo\u00eetes de Samoas. De combien de caisses de 12 bo\u00eetes, plus des bo\u00eetes suppl\u00e9mentaires, Ashley a-t-elle besoin\u00a0?", "answer": 1.0}
+{"index": 181, "question": "Ashley a vendu 12 bo\u00eetes de Samoas. De combien de caisses de 12 bo\u00eetes, plus des bo\u00eetes suppl\u00e9mentaires, Ashley a-t-elle besoin\u00a0?", "answer": 1.0}
+{"index": 182, "question": "Sarah a vendu 24 bo\u00eetes de cr\u00e8mes Lemon Chalet. De combien de caisses de 12 cartons, plus des cartons suppl\u00e9mentaires, Sarah a-t-elle besoin\u00a0?", "answer": 2.0}
+{"index": 183, "question": "Si Karen a vendu 36 bo\u00eetes de Tagalongs, combien de caisses de 12 bo\u00eetes Karen r\u00e9cup\u00e8re-t-elle chez la maman cookie\u00a0?", "answer": 3.0}
+{"index": 184, "question": "Si Karen a vendu 36 bo\u00eetes de Tagalongs, combien de caisses de 12 bo\u00eetes Karen r\u00e9cup\u00e8re-t-elle chez la maman cookie\u00a0?", "answer": 3.0}
+{"index": 185, "question": "Si Karen a vendu 36 bo\u00eetes de Tagalongs, combien de caisses de 12 bo\u00eetes Karen r\u00e9cup\u00e8re-t-elle chez la maman cookie\u00a0?", "answer": 3.0}
+{"index": 186, "question": "Si Madison a vendu 24 bo\u00eetes de Tagalongs, combien de caisses de 12 bo\u00eetes Madison r\u00e9cup\u00e8re-t-elle aupr\u00e8s de la maman cookie\u00a0?", "answer": 2.0}
+{"index": 187, "question": "Si Karen a vendu 36 bo\u00eetes de Tagalongs, combien de caisses de 12 bo\u00eetes Karen r\u00e9cup\u00e8re-t-elle chez la maman cookie\u00a0?", "answer": 3.0}
+{"index": 188, "question": "Si Harold partageait 15 pommes entre 3 \u00e9l\u00e8ves de sa classe et gardait les restes, combien de pommes chaque camarade de classe a-t-il obtenu\u00a0?", "answer": 5.0}
+{"index": 189, "question": "Si Victor partageait 25 quilles entre 5 \u00e9l\u00e8ves de sa classe et gardait les restes, combien de quilles chaque camarade de classe a-t-il re\u00e7u\u00a0?", "answer": 5.0}
+{"index": 190, "question": "Jenny a vendu 24 bo\u00eetes de tr\u00e8fles. Combien de caisses de 8 bo\u00eetes, plus des bo\u00eetes suppl\u00e9mentaires, Jenny doit-elle livrer\u00a0?", "answer": 3.0}
+{"index": 191, "question": "Les boules de gomme sont vendues en paquets de 5. Nathan a mang\u00e9 20 boules de gomme. Combien de bo\u00eetes enti\u00e8res a-t-il mang\u00e9 et combien de boules de gomme lui reste-t-il ?", "answer": 4.0}
+{"index": 192, "question": "Shirley a vendu 20 bo\u00eetes de Do-Si-Dos. Combien de caisses de 4 bo\u00eetes, plus des bo\u00eetes suppl\u00e9mentaires, Shirley doit-elle livrer\u00a0?", "answer": 5.0}
+{"index": 193, "question": "Les t\u00eates de citron sont vendues en paquets de 6. Louis a mang\u00e9 54 t\u00eates de citron. Combien de bo\u00eetes enti\u00e8res a-t-il mang\u00e9 et combien de t\u00eates de citron lui reste-t-il\u00a0?", "answer": 9.0}
+{"index": 194, "question": "Les t\u00eates de citron sont vendues en paquets de 6. Louis a mang\u00e9 54 t\u00eates de citron. Combien de bo\u00eetes enti\u00e8res a-t-il mang\u00e9 et combien de t\u00eates de citron lui reste-t-il\u00a0?", "answer": 9.0}
+{"index": 195, "question": "Les t\u00eates de citron sont vendues en paquets de 6. Louis a mang\u00e9 54 t\u00eates de citron. Combien de bo\u00eetes enti\u00e8res a-t-il mang\u00e9 et combien de t\u00eates de citron lui reste-t-il\u00a0?", "answer": 9.0}
+{"index": 196, "question": "Marilyn commence avec 51 capsules de bouteilles. Elle en partage 36 avec Nancy. Avec combien de capsules de bouteilles Marilyn termine-t-elle ?", "answer": 15.0}
+{"index": 197, "question": "William a 2 capsules de bouteilles. Il en ach\u00e8te 41 de plus. Combien de capsules de bouteilles William poss\u00e8de-t-il en tout\u00a0?", "answer": 43.0}
+{"index": 198, "question": "Carol commence avec 42 blocs. Elle en perd 25. Avec combien de blocs Carol termine-t-elle ?", "answer": 17.0}
+{"index": 199, "question": "Lillian r\u00e9cup\u00e8re 88 bonbons. Le p\u00e8re de Lillian en donne 5 de plus \u00e0 Lillian. Combien de bonbons Lillian a-t-elle ?", "answer": 93.0}
+{"index": 200, "question": "William a 2 capsules de bouteilles. Il en ach\u00e8te 41 de plus. Combien de capsules de bouteilles William poss\u00e8de-t-il en tout\u00a0?", "answer": 43.0}
+{"index": 201, "question": "Il y a 8 pommes en tas sur le bureau. Chaque pomme est livr\u00e9e en paquet de 11. 5 pommes sont ajout\u00e9es au tas. Combien y a-t-il de pommes dans le tas ?", "answer": 13.0}
+{"index": 202, "question": "Sean a 9 pommes. Susan en donne 8 de plus \u00e0 Sean. Plus tard, Sean ach\u00e8te 18 billets au magasin. Combien de pommes Sean a-t-il en tout\u00a0?", "answer": 17.0}
+{"index": 203, "question": "Il y a 2 bananes en tas sur le bureau. Chaque banane est livr\u00e9e en paquet de 17. 7 bananes sont ajout\u00e9es au tas. Combien y a-t-il de bananes dans le tas ?", "answer": 9.0}
+{"index": 204, "question": "Il y a 6 bonbons en tas sur le bureau. Chaque bonbon est livr\u00e9 en paquet de 15. 4 bonbons sont ajout\u00e9s \u00e0 la pile. Combien y a-t-il de bonbons dans la pile ?", "answer": 10.0}
+{"index": 205, "question": "Kimberly poss\u00e8de 5 quilles. Elle en ach\u00e8te 7 de plus. Plus tard, Kimberly ach\u00e8te 18 oranges au magasin. Combien de quilles Kimberly poss\u00e8de-t-elle en tout\u00a0?", "answer": 12.0}
+{"index": 206, "question": "Clarence a 5 oranges. Il en re\u00e7oit 3 de plus de Joyce. Plus tard, Clarence ach\u00e8te 9 Skittles au magasin. Combien d\u2019oranges Clarence a-t-il en tout ?", "answer": 8.0}
+{"index": 207, "question": "Il y a 2 pommes en tas sur le bureau. Chaque pomme est livr\u00e9e en paquet de 7. 4 pommes sont ajout\u00e9es au tas. Combien y a-t-il de pommes dans le tas ?", "answer": 6.0}
+{"index": 208, "question": "Kimberly poss\u00e8de 5 quilles. Elle en ach\u00e8te 7 de plus. Plus tard, Kimberly ach\u00e8te 18 oranges au magasin. Combien de quilles Kimberly poss\u00e8de-t-elle en tout\u00a0?", "answer": 12.0}
+{"index": 209, "question": "Annie a 6 pommes. Elle en re\u00e7oit 6 de plus de Nathan. Plus tard, Annie ach\u00e8te 10 crayons au magasin. Combien de pommes Annie a-t-elle en tout ?", "answer": 12.0}
+{"index": 210, "question": "Joyce a 8 \u0153ufs. Marie en donne 6 de plus \u00e0 Joyce. Plus tard, Joyce ach\u00e8te 13 gommes au magasin. Combien d\u2019\u0153ufs Joyce a-t-elle en tout ?", "answer": 14.0}
+{"index": 211, "question": "Il y a 2 bananes en tas sur le bureau. Chaque banane est livr\u00e9e en paquet de 13. 7 bananes sont ajout\u00e9es au tas. Combien y a-t-il de bananes dans le tas ?", "answer": 9.0}
+{"index": 212, "question": "Kenneth a 3 billes. Il en ach\u00e8te 6 de plus. Plus tard, Kenneth ach\u00e8te 15 pommes au magasin. Combien de billes Kenneth poss\u00e8de-t-il en tout ?", "answer": 9.0}
+{"index": 213, "question": "Arthur a 6 cartes. Aaron a 5 cartes. Aaron en trouve 62 autres. Avec combien de cartes Aaron termine-t-il ?", "answer": 67.0}
+{"index": 214, "question": "Scott a 4 billets. Ernest a avec 9 billets. Ernest en trouve 72 autres. Avec combien de tickets Ernest termine-t-il ?", "answer": 81.0}
+{"index": 215, "question": "Diane a 37 crayons. Elle en re\u00e7oit 5 de plus de Frances. Plus tard, Diane ach\u00e8te 16 cartes au magasin. Combien de crayons Diane a-t-elle en tout\u00a0?", "answer": 42.0}
+{"index": 216, "question": "Adam a 13 blocs. Ann a 9 blocs. Ann en trouve 44 autres. Avec combien de blocs Ann termine-t-elle\u00a0?", "answer": 53.0}
+{"index": 217, "question": "Ronald a 13 blocs. Martha a 4 blocs. Martha en trouve 80 autres. Avec combien de blocs Martha termine-t-elle ?", "answer": 84.0}
+{"index": 218, "question": "Albert a 9 capsules de bouteilles. Anne a 10 capsules de bouteilles. Anne en trouve 5 autres. Avec combien de capsules de bouteilles Anne termine-t-elle ?", "answer": 15.0}
+{"index": 219, "question": "Evelyn a 95 billes. Elle en re\u00e7oit 9 de plus d'Henry. Plus tard, Evelyn ach\u00e8te 6 cartes au magasin. Combien de billes Evelyn a-t-elle en tout ?", "answer": 104.0}
+{"index": 220, "question": "David a 8 bananes. Il en re\u00e7oit 50 de plus de Christopher. Plus tard, David ach\u00e8te 9 cartes au magasin. Combien de bananes David a-t-il en tout ?", "answer": 58.0}
+{"index": 221, "question": "Emily collectionne 63 cartes. Le p\u00e8re d'Emily en donne 7 de plus. Bruce a 13 pommes. Combien de cartes Emily poss\u00e8de-t-elle ?", "answer": 70.0}
+{"index": 222, "question": "Carolyn commence avec 47 billes et 6 oranges. Elle en partage 42 avec Diana. Avec combien de billes Carolyn termine-t-elle ?", "answer": 5.0}
+{"index": 223, "question": "Willie a 48 bananes. Charles a 14 bananes. Il en perd 35. Combien de bananes Willie aura-t-il ?", "answer": 13.0}
+{"index": 224, "question": "Il y a 55 oranges dans une bo\u00eete. Deborah a 11 oranges dans un sac. Susan sort 35 oranges de la bo\u00eete. Combien d\u2019oranges reste-t-il dans la bo\u00eete ?", "answer": 20.0}
+{"index": 225, "question": "Il y a 77 pommes dans une bo\u00eete. Louise a 9 pommes dans un sac. Scott sort 75 pommes de la bo\u00eete. Combien de pommes reste-t-il dans la bo\u00eete ?", "answer": 2.0}
+{"index": 226, "question": "Bruce a 75 \u0153ufs. Kimberly a 17 \u0153ufs. Il en perd 70. Combien d\u2019\u0153ufs Bruce aura-t-il ?", "answer": 5.0}
+{"index": 227, "question": "Il y a 69 gommes dans une bo\u00eete. Jane a 15 gommes dans un sac. Doris sort 54 gommes de la bo\u00eete. Combien de gommes reste-t-il dans la bo\u00eete ?", "answer": 15.0}
+{"index": 228, "question": "Il y a 97 gommes dans une bo\u00eete. Ernest a 17 gommes dans un sac. Mark sort 97 gommes de la bo\u00eete. Combien de gommes reste-t-il dans la bo\u00eete ?", "answer": 0.0}
+{"index": 229, "question": "Il y a 88 bonbons dans une bo\u00eete. Lisa a 18 bonbons dans un sac. Diana sort 6 bonbons de la bo\u00eete. Combien de bonbons reste-t-il dans la bo\u00eete ?", "answer": 82.0}
+{"index": 230, "question": "Brandon poss\u00e8de 96 quilles. Bonnie a 4 quilles. Il en perd 9. Combien de Skittles Brandon aura-t-il ?", "answer": 87.0}
+{"index": 231, "question": "Th\u00e9r\u00e8se a 32 crayons. Janice a 12 crayons. Elle en partage 13 avec Nancy. Combien de crayons Theresa aura-t-elle ?", "answer": 19.0}
+{"index": 232, "question": "Craig a 20 pommes. Judy a 11 pommes. Il en partage 7 avec Eug\u00e8ne. Combien de pommes Craig aura-t-il ?", "answer": 13.0}
+{"index": 233, "question": "Heather p\u00e8se 87 livres. Emily p\u00e8se 9 livres. Elizabeth p\u00e8se 8 livres. \u00c0 quel point Heather est-elle plus lourde qu'Emily ?", "answer": 78.0}
+{"index": 234, "question": "George a 2 bo\u00eetes de blocs. Chaque bo\u00eete contient 6 blocs et il y a 5 bo\u00eetes dans une caisse. Combien de blocs George poss\u00e8de-t-il ?", "answer": 12.0}
+{"index": 235, "question": "Maria a 3 bo\u00eetes d'\u0153ufs. Chaque bo\u00eete contient 7 \u0153ufs et il y a 8 bo\u00eetes dans une caisse. Combien d\u2019\u0153ufs Maria a-t-elle ?", "answer": 21.0}
+{"index": 236, "question": "Gloria poss\u00e8de 9 bo\u00eetes de billets. Chaque bo\u00eete contient 5 billets et il y a 10 bo\u00eetes dans une caisse. Combien de billets Gloria a-t-elle ?", "answer": 45.0}
+{"index": 237, "question": "Georges a 5 bo\u00eetes d'\u0153ufs. Chaque bo\u00eete contient 3 \u0153ufs et il y a 9 bo\u00eetes dans une caisse. Combien d\u2019\u0153ufs George a-t-il ?", "answer": 15.0}
+{"index": 238, "question": "Jacqueline poss\u00e8de 4 bo\u00eetes de gommes. Chaque bo\u00eete contient 10 gommes et il y a 9 bo\u00eetes dans un \u00e9tui. Combien de gommes Jacqueline poss\u00e8de-t-elle ?", "answer": 40.0}
+{"index": 239, "question": "Marilyn poss\u00e8de 40 bananes qui doivent \u00eatre rang\u00e9es dans des cartons. Daniel vient aider et apporte 10 cookies \u00e0 partager avec Marilyn. S\u2019il y a 8 cartons, combien de bananes doivent contenir chaque carton ?", "answer": 5.0}
+{"index": 240, "question": "Rose a 9 pommes et 12 gommes. Si elle partage les pommes entre 3 amis, combien de pommes chaque ami aura-t-il ?", "answer": 3.0}
+{"index": 241, "question": "Joshua a 40 quilles et 6 \u0153ufs. S'il partage les Quilles entre 5 amis, combien de Quilles chaque ami obtient-il\u00a0?", "answer": 8.0}
+{"index": 242, "question": "Ryan a 72 billes et 17 blocs. S\u2019il partage les billes entre 9 amis, combien de billes chaque ami obtient-il ?", "answer": 8.0}
+{"index": 243, "question": "Ruby a 36 bonbons et 6 bananes. Si elle partage les bonbons entre 9 amis, combien de bonbons chaque ami re\u00e7oit-il\u00a0?", "answer": 4.0}
+{"index": 244, "question": "Scott a 56 oranges qui doivent \u00eatre rang\u00e9es dans des cartons. Terry vient aider et apporte 11 cookies \u00e0 partager avec Scott. S\u2019il y a 8 cartons, combien d\u2019oranges doivent contenir chaque carton ?", "answer": 7.0}
+{"index": 245, "question": "Joyce poss\u00e8de 40 bananes qui doivent \u00eatre rang\u00e9es dans des cartons. Fred vient aider et apporte 18 cookies \u00e0 partager avec Joyce. S\u2019il y a 10 cartons, combien de bananes doivent contenir chaque carton ?", "answer": 4.0}
+{"index": 246, "question": "Joe a 45 oranges qui doivent \u00eatre rang\u00e9es dans des cartons. Daniel vient aider et apporte 16 cookies \u00e0 partager avec Joe. S\u2019il y a 9 cartons, combien d\u2019oranges doivent contenir chaque carton ?", "answer": 5.0}
+{"index": 247, "question": "Ernest poss\u00e8de 45 bananes qu'il faut ranger dans des caisses. Julie vient aider et apporte 3 cookies \u00e0 partager avec Ernest. S\u2019il y a 5 cartons, combien de bananes doivent contenir chaque carton ?", "answer": 9.0}
+{"index": 248, "question": "Virginia a 16 \u0153ufs et 8 quilles. Si elle partage les \u0153ufs entre 4 amis, combien d\u2019\u0153ufs chaque ami aura-t-il ?", "answer": 4.0}
+{"index": 249, "question": "Shawn a 13 blocs. Mildred a 2 blocs. Mildred en trouve 84 autres. Avec combien de blocs Mildred termine-t-elle ?", "answer": 86.0}
+{"index": 250, "question": "Si Anne errait pendant 3 heures \u00e0 3 km/h. Jusqu\u2019o\u00f9 est all\u00e9e Anne ?", "answer": 6.0}
+{"index": 251, "question": "Il a fallu 3 heures \u00e0 Amanda pour se rendre \u00e0 pied jusqu'\u00e0 la maison de Kimberly \u00e0 une vitesse de 3 km/h. Quelle distance y a-t-il entre la maison d'Amanda et celle de Kimberly ?", "answer": 6.0}
+{"index": 252, "question": "Si St\u00e9phanie courait pendant 3 heures \u00e0 5 miles par heure. Jusqu\u2019o\u00f9 St\u00e9phanie est-elle all\u00e9e ?", "answer": 15.0}
+{"index": 253, "question": "Si Charles marchait 6 milles \u00e0 3 milles par heure, combien de temps Charles voyageait-il ?", "answer": 2.0}
+{"index": 254, "question": "Il a fallu \u00e0 Carl 5 heures pour se rendre chez Ralph \u00e0 une vitesse de 3 km/h. Quelle distance y a-t-il entre la maison de Carl et celle de Ralph\u00a0?", "answer": 10.0}
+{"index": 255, "question": "Emily a sprint\u00e9 jusqu'\u00e0 la maison de Timothy. Il y a 16 km entre la maison d'Emily et celle de Timothy. Il a fallu 2 heures \u00e0 Emily pour y arriver. \u00c0 quelle vitesse Emily est-elle all\u00e9e ?", "answer": 5.0}
+{"index": 256, "question": "Si Norma errait pendant 5 heures \u00e0 3 miles par heure. Jusqu\u2019o\u00f9 Norma est-elle all\u00e9e ?", "answer": 15.0}
+{"index": 257, "question": "Si Charles marchait 6 milles \u00e0 3 milles par heure, combien de temps Charles voyageait-il ?", "answer": 2.0}
+{"index": 258, "question": "Si Anne errait pendant 3 heures \u00e0 3 km/h. Jusqu\u2019o\u00f9 est all\u00e9e Anne ?", "answer": 6.0}
+{"index": 259, "question": "Si Rose marchait 4 heures \u00e0 3 km/h. Jusqu\u2019o\u00f9 Rose est-elle all\u00e9e ?", "answer": 8.0}
+{"index": 260, "question": "Il a fallu 2 heures \u00e0 Amanda pour se rendre \u00e0 pied jusqu'\u00e0 la maison de Kimberly \u00e0 une vitesse de 6 km/h. Quelle distance y a-t-il entre la maison d'Amanda et celle de Kimberly ?", "answer": 8.0}
+{"index": 261, "question": "Martin se dirigea vers la maison de Lawrence. Il y a 19 km entre la maison de Martin et la maison de Lawrence. Il a fallu 6 heures \u00e0 Martin pour y arriver. \u00c0 quelle vitesse Martin est-il all\u00e9 ?", "answer": 2.0}
+{"index": 262, "question": "Il a fallu 5 heures \u00e0 Amanda pour se rendre \u00e0 pied jusqu'\u00e0 la maison de Kimberly \u00e0 une vitesse de 3 km/h. Quelle distance y a-t-il entre la maison d'Amanda et celle de Kimberly ?", "answer": 10.0}
+{"index": 263, "question": "Martin se dirigea vers la maison de Lawrence. Il y a 19 km entre la maison de Martin et la maison de Lawrence. Il a fallu 6 heures \u00e0 Martin pour y arriver. \u00c0 quelle vitesse Martin est-il all\u00e9 ?", "answer": 2.0}
+{"index": 264, "question": "Emily a sprint\u00e9 jusqu'\u00e0 la maison de Timothy. Il y a 16 km entre la maison d'Emily et celle de Timothy. Il a fallu 2 heures \u00e0 Emily pour y arriver. \u00c0 quelle vitesse Emily est-elle all\u00e9e ?", "answer": 5.0}
+{"index": 265, "question": "Jos\u00e9 se dirigea vers la maison de Jane. Il y a 24 miles entre la maison de Jos\u00e9 et la maison de Jane. Il a fallu 12 heures \u00e0 Jos\u00e9 pour y arriver. \u00c0 quelle vitesse Jos\u00e9 est-il all\u00e9 ?", "answer": 2.0}
+{"index": 266, "question": "Il a fallu \u00e0 Katherine 3 heures pour courir jusqu'\u00e0 la maison de Louis \u00e0 8 miles par heure. Quelle distance y a-t-il entre la maison de Katherine et celle de Louis ?", "answer": 24.0}
+{"index": 267, "question": "Patrick a couru jusqu'\u00e0 la maison d'Aaron. Il y a 14 miles de la maison de Patrick \u00e0 la maison d\u2019Aaron. Il a fallu 2 heures \u00e0 Patrick pour y arriver. \u00c0 quelle vitesse Patrick est-il all\u00e9 ?", "answer": 7.0}
+{"index": 268, "question": "Rachel se dirigea vers la maison de Nicholas. Il y a 16 km entre la maison de Rachel et celle de Nicolas. Il a fallu \u00e0 Rachel 5 heures pour y arriver. \u00c0 quelle vitesse Rachel est-elle all\u00e9e ?", "answer": 2.0}
+{"index": 269, "question": "Si Jeanne parcourait 25 milles \u00e0 v\u00e9lo \u00e0 5 milles par heure, combien de temps Jeanne voyageait-elle\u00a0?", "answer": 5.0}
+{"index": 270, "question": "Mark a sprint\u00e9 24 milles \u00e0 6 milles par heure. Combien de temps Mark a-t-il sprint\u00e9 ?", "answer": 4.0}
+{"index": 271, "question": "Si Benjamin a parcouru 22 km \u00e0 une vitesse de 3 km/h, combien de temps Benjamin a-t-il voyag\u00e9\u00a0?", "answer": 7.0}
+{"index": 272, "question": "Mark a sprint\u00e9 24 milles \u00e0 6 milles par heure. Combien de temps Mark a-t-il sprint\u00e9 ?", "answer": 4.0}
+{"index": 273, "question": "Si Jeanne parcourait 25 milles \u00e0 v\u00e9lo \u00e0 5 milles par heure, combien de temps Jeanne voyageait-elle\u00a0?", "answer": 5.0}
+{"index": 274, "question": "Christine a parcouru 20 milles \u00e0 4 milles par heure. Combien de temps Christine a-t-elle err\u00e9 ?", "answer": 5.0}
+{"index": 275, "question": "Christine a parcouru 20 milles \u00e0 4 milles par heure. Combien de temps Christine a-t-elle err\u00e9 ?", "answer": 5.0}
+{"index": 276, "question": "James a parcouru 80 milles \u00e0 16 milles par heure. Combien de temps James a-t-il roul\u00e9 ?", "answer": 5.0}
+{"index": 277, "question": "Juan a couru 80 milles \u00e0 10 milles par heure. Combien de temps Juan a-t-il couru ?", "answer": 8.0}
+{"index": 278, "question": "James a parcouru 80 milles \u00e0 16 milles par heure. Combien de temps James a-t-il roul\u00e9 ?", "answer": 5.0}
+{"index": 279, "question": "Lisa a parcouru 256 milles \u00e0 32 milles par heure. Combien de temps Lisa a-t-elle vol\u00e9 ?", "answer": 8.0}
+{"index": 280, "question": "Lisa a parcouru 256 milles \u00e0 32 milles par heure. Combien de temps Lisa a-t-elle vol\u00e9 ?", "answer": 8.0}
+{"index": 281, "question": "Christopher a march\u00e9 5 miles \u00e0 4 miles par heure. Combien de temps Christophe a-t-il march\u00e9 ?", "answer": 1.25}
+{"index": 282, "question": "Jos\u00e9 a parcouru 4 kilom\u00e8tres \u00e0 2 kilom\u00e8tres par heure. Combien de temps Jos\u00e9 a-t-il err\u00e9 ?", "answer": 2.0}
+{"index": 283, "question": "Si Teresa courait 25 kilom\u00e8tres \u00e0 5 kilom\u00e8tres par heure, combien de temps Teresa courait-elle\u00a0?", "answer": 5.0}
+{"index": 284, "question": "Si Teresa courait 25 kilom\u00e8tres \u00e0 5 kilom\u00e8tres par heure, combien de temps Teresa courait-elle\u00a0?", "answer": 5.0}
+{"index": 285, "question": "Si Teresa courait 25 kilom\u00e8tres \u00e0 5 kilom\u00e8tres par heure, combien de temps Teresa courait-elle\u00a0?", "answer": 5.0}
+{"index": 286, "question": "Si Benjamin a patin\u00e9 80 kilom\u00e8tres \u00e0 10 kilom\u00e8tres par heure, combien de temps Benjamin a-t-il patin\u00e9 ?", "answer": 8.0}
+{"index": 287, "question": "Si Heather a parcouru 40 kilom\u00e8tres \u00e0 v\u00e9lo \u00e0 une vitesse de 8 kilom\u00e8tres par heure, combien de temps Heather a-t-elle fait du v\u00e9lo\u00a0?", "answer": 5.0}
+{"index": 288, "question": "Si Benjamin a patin\u00e9 80 kilom\u00e8tres \u00e0 10 kilom\u00e8tres par heure, combien de temps Benjamin a-t-il patin\u00e9 ?", "answer": 8.0}
+{"index": 289, "question": "J\u00e9r\u00e9mie a march\u00e9 20 kilom\u00e8tres \u00e0 2 kilom\u00e8tres par heure. Combien de temps J\u00e9r\u00e9mie a-t-il march\u00e9 ?", "answer": 10.0}
+{"index": 290, "question": "J\u00e9r\u00e9mie a march\u00e9 20 kilom\u00e8tres \u00e0 2 kilom\u00e8tres par heure. Combien de temps J\u00e9r\u00e9mie a-t-il march\u00e9 ?", "answer": 10.0}
+{"index": 291, "question": "Si Lawrence marchait 4 kilom\u00e8tres \u00e0 3 kilom\u00e8tres par heure, combien de temps Lawrence marchait-il\u00a0?", "answer": 1.0}
+{"index": 292, "question": "Vous avez 7 ballons et votre ami a 5 ballons. Combien de ballons as-tu de plus que ton ami ?", "answer": 2.0}
+{"index": 293, "question": "2 oiseaux \u00e9taient assis sur la cl\u00f4ture. 4 autres oiseaux sont venus les rejoindre. Combien d\u2019oiseaux sont assis sur la cl\u00f4ture ?", "answer": 6.0}
+{"index": 294, "question": "Vous avez collect\u00e9 7 grillons. Combien de grillons suppl\u00e9mentaires devez-vous collecter pour avoir 11 grillons\u00a0?", "answer": 4.0}
+{"index": 295, "question": "Une abeille a 6 pattes. Combien de pattes ont 2 abeilles ?", "answer": 12.0}
+{"index": 296, "question": "Il y a 6 oiseaux et 3 nids. Combien y a-t-il d\u2019oiseaux de plus que de nids ?", "answer": 3.0}
+{"index": 297, "question": "Il y a 5 fleurs et 3 abeilles. Combien y a-t-il d\u2019abeilles de moins que de fleurs ?", "answer": 2.0}
+{"index": 298, "question": "3 hiboux \u00e9taient assis sur la cl\u00f4ture. 2 autres hiboux les rejoignirent. Combien de hiboux sont sur la cl\u00f4ture maintenant ?", "answer": 5.0}
+{"index": 299, "question": "2 castors travaillaient sur leur maison. Je suis all\u00e9 nager. Combien de castors travaillent encore sur leur maison ?", "answer": 1.0}
+{"index": 300, "question": "2 toucans sont assis sur une branche d\u2019arbre. 1 autre toucan les rejoint. Combien de toucans en tout ?", "answer": 3.0}
+{"index": 301, "question": "Il y a 4 \u00e9cureuils dans un arbre avec 2 noix. Combien y a-t-il d\u2019\u00e9cureuils de plus que de noix ?", "answer": 2.0}
+{"index": 302, "question": "Mme Hilt a achet\u00e9 un yoyo pour 24 cents et un sifflet pour 14 cents. Combien a-t-elle d\u00e9pens\u00e9 au total pour les deux jouets ?", "answer": 38.0}
+{"index": 303, "question": "Chez Mme Hilt, il y avait 29 pouces de neige et l'\u00e9cole primaire de Brecknock a re\u00e7u 17 pouces de neige. Combien de neige en plus la maison de Mme Hilt avait-elle ?", "answer": 12.0}
+{"index": 304, "question": "Mme Hilt lit 5 livres par jour. Combien de livres lit-elle en 3 jours ?", "answer": 15.0}
+{"index": 305, "question": "Mme Hilt a vu 3 insectes manger 2 fleurs chacun. Combien de fleurs au total les insectes ont-ils mang\u00e9s\u00a0?", "answer": 6.0}
+{"index": 306, "question": "Mme Hilt avait 15 cents. Elle a achet\u00e9 un crayon pour 11 centimes. Combien d'argent lui restait-il ?", "answer": 4.0}
+{"index": 307, "question": "Mme Hilt a achet\u00e9 2 pizzas. Chaque pizza avait 8 tranches. Combien de parts de pizza au total avait-elle ?", "answer": 16.0}
+{"index": 308, "question": "Mme Hilt mangeait 5 pommes toutes les heures. Combien de pommes a-t-elle mang\u00e9 au bout de 3 heures ?", "answer": 15.0}
+{"index": 309, "question": "La m\u00e8re de Mary se pr\u00e9pare pour la f\u00eate d'anniversaire de Mary. Elle a gonfl\u00e9 6 ballons ce matin et 5 ballons cet apr\u00e8s-midi. Combien de ballons a-t-elle gonfl\u00e9 en tout ?", "answer": 11.0}
+{"index": 310, "question": "Le professeur de Shelby donne des \u00e9toiles d'or pour un excellent travail de math\u00e9matiques. Hier, Shelby a obtenu 4 \u00e9toiles d'or. Aujourd'hui, elle en a gagn\u00e9 3 de plus. Combien d\u2019\u00e9toiles d\u2019or Shelby a-t-elle gagn\u00e9 en tout ?", "answer": 7.0}
+{"index": 311, "question": "La Litter Patrol a r\u00e9cup\u00e9r\u00e9 samedi 10 bouteilles en verre et 8 canettes en aluminium. Combien de d\u00e9chets ont-ils ramass\u00e9s en tout ?", "answer": 18.0}
+{"index": 312, "question": "Le professeur de Carson distribue des \u00e9toiles d'or pour un excellent travail de math\u00e9matiques. Hier, Carson a obtenu 6 \u00e9toiles d'or. Aujourd\u2019hui, il en a gagn\u00e9 9 de plus. Combien d\u2019\u00e9toiles d\u2019or Carson a-t-il gagn\u00e9 en tout ?", "answer": 15.0}
+{"index": 313, "question": "Il y avait 10 \u00e9l\u00e8ves dans le bus scolaire. Au premier arr\u00eat, 3 \u00e9tudiants sont descendus du bus. Combien d\u2019\u00e9l\u00e8ves reste-t-il dans le bus ?", "answer": 7.0}
+{"index": 314, "question": "Lucy est all\u00e9e \u00e0 l'\u00e9picerie. Elle a achet\u00e9 12 paquets de biscuits et 16 paquets de nouilles. Combien de paquets de courses a-t-elle achet\u00e9 en tout\u00a0?", "answer": 28.0}
+{"index": 315, "question": "Roden est all\u00e9 dans une animalerie. Il a achet\u00e9 15 poissons rouges et 7 poissons bleus. Combien de poissons a-t-il achet\u00e9 ?", "answer": 22.0}
+{"index": 316, "question": "J'ai lu 21 pages de mon livre en anglais hier. Aujourd'hui, j'ai lu 17 pages. Quel est le nombre total de pages ai-je lu\u00a0?", "answer": 38.0}
+{"index": 317, "question": "Dans une \u00e9cole, il y a 542 filles et 387 gar\u00e7ons. Combien y a-t-il d'\u00e9l\u00e8ves dans cette \u00e9cole ?", "answer": 929.0}
+{"index": 318, "question": "Linda a 34 bonbons. Chlo\u00e9 en a 28. Combien de bonbons ont-ils en tout ?", "answer": 62.0}
+{"index": 319, "question": "Gino a 63 b\u00e2tonnets de glace. J'ai 50 b\u00e2tonnets de glace. Quelle est la somme de nos b\u00e2tonnets de glace ?", "answer": 113.0}
+{"index": 320, "question": "Lino a ramass\u00e9 292 coquillages au bord de la mer le matin et 324 coquillages l'apr\u00e8s-midi. Combien d\u2019obus a-t-il ramass\u00e9 en tout ?", "answer": 616.0}
+{"index": 321, "question": "Il y avait 105 parents et 698 \u00e9l\u00e8ves dans le programme. Combien de personnes \u00e9taient pr\u00e9sentes au programme ?", "answer": 803.0}
+{"index": 322, "question": "Samedi dernier, Marie a vendu 425 magazines et 275 journaux. Quel est le nombre total de documents de lecture qu\u2019elle a vendus\u00a0?", "answer": 700.0}
+{"index": 323, "question": "Il y a 12 oiseaux sur la cl\u00f4ture. 8 autres oiseaux se posent sur la cl\u00f4ture. Combien d\u2019oiseaux y a-t-il sur la cl\u00f4ture ?", "answer": 20.0}
+{"index": 324, "question": "22 gar\u00e7ons ont d\u00e9val\u00e9 le toboggan. 13 autres gar\u00e7ons ont descendu le toboggan. Combien de gar\u00e7ons ont descendu le toboggan ?", "answer": 35.0}
+{"index": 325, "question": "13 canards nagent dans un lac. 20 autres canards viennent les rejoindre. Combien de canards nagent dans le lac ?", "answer": 33.0}
+{"index": 326, "question": "30 chiens aboient. 10 autres chiens se mettent \u00e0 aboyer. Combien de chiens aboient ?", "answer": 40.0}
+{"index": 327, "question": "Bobby a mang\u00e9 26 bonbons. Ensuite, il en a mang\u00e9 17 de plus. Combien de bonbons Bobby a-t-il mang\u00e9 ?", "answer": 43.0}
+{"index": 328, "question": "Sandy avait 26 poissons de compagnie. Elle a achet\u00e9 6 autres poissons. Combien de poissons de compagnie Sandy poss\u00e8de-t-elle maintenant\u00a0?", "answer": 32.0}
+{"index": 329, "question": "Le clown a gonfl\u00e9 47 ballons. Puis il a gonfl\u00e9 13 autres ballons. Combien de ballons le clown a-t-il maintenant ?", "answer": 60.0}
+{"index": 330, "question": "Notre classe a re\u00e7u 54 livres de la biblioth\u00e8que. Ensuite, nous avons re\u00e7u 23 autres livres de la biblioth\u00e8que. Combien de livres notre classe a-t-elle obtenu de la biblioth\u00e8que\u00a0?", "answer": 77.0}
+{"index": 331, "question": "Tessa a 4 pommes. Anita lui en a donn\u00e9 5 de plus. Elle a besoin de 10 pommes pour faire une tarte. En a-t-elle assez pour faire une tarte ?", "answer": 9.0}
+{"index": 332, "question": "Molly avait 14 bougies sur son g\u00e2teau d'anniversaire. Elle a grandi et en a eu 6 de plus sur son g\u00e2teau d'anniversaire. Quel \u00e2ge a Molly maintenant ?", "answer": 20.0}
+{"index": 333, "question": "James a mang\u00e9 22 b\u00e2tonnets de carottes avant le d\u00eener et 15 autres apr\u00e8s le d\u00eener. Combien de b\u00e2tonnets de carottes a-t-il mang\u00e9 ?", "answer": 37.0}
+{"index": 334, "question": "Jovana a rempli son seau de 5 livres de coquillages. Si elle ajoute 12 livres de coquilles suppl\u00e9mentaires pour remplir son seau, de combien de livres dispose-t-elle\u00a0?", "answer": 17.0}
+{"index": 335, "question": "Le crayon d\u2019Isha mesure 12 cubes de long. Si elle re\u00e7oit un autre crayon de 12 cubes de long, combien de cubes mesurent les deux crayons\u00a0?", "answer": 24.0}
+{"index": 336, "question": "Les cheveux d'Isabella mesurent 18 cubes de long. Si ses cheveux poussent de 4 pouces de plus, combien de temps dureront-ils\u00a0?", "answer": 22.0}
+{"index": 337, "question": "Mme Sheridan a 17 chats. M. Sheridan lui a donn\u00e9 14 chats suppl\u00e9mentaires. Combien de chats Mme Sheridan a-t-elle en tout ?", "answer": 31.0}
+{"index": 338, "question": "Mme Sheridan a 22 poissons. Sa s\u0153ur lui a donn\u00e9 47 poissons suppl\u00e9mentaires. Combien de poissons a-t-elle maintenant ?", "answer": 69.0}
+{"index": 339, "question": "Mme Heine ach\u00e8te des friandises pour la Saint-Valentin pour ses 2 chiens. Si elle veut leur acheter 3 biscuits c\u0153ur chacun, combien de biscuits doit-elle acheter ?", "answer": 6.0}
+{"index": 340, "question": "Cade avait 87 billes. Il en a donn\u00e9 8 \u00e0 Dylan. Combien lui en reste-t-il ?", "answer": 79.0}
+{"index": 341, "question": "Michael a des poissons dans son aquarium. Ben lui a donn\u00e9 18 poissons suppl\u00e9mentaires. Il en a maintenant 49. Avec combien de poissons avait-il au d\u00e9part ?", "answer": 31.0}
+{"index": 342, "question": "Alyssa avait 129 cookies. Aiyanna en a 140. Combien de cookies de plus Aiyanna a-t-elle qu'Alyssa ?", "answer": 11.0}
+{"index": 343, "question": "Daniel a mang\u00e9 des nouilles. Il a donn\u00e9 12 nouilles \u00e0 William. Maintenant, Daniel n'a plus que 54 nouilles. Avec combien de nouilles Daniel devait-il commencer ?", "answer": 66.0}
+{"index": 344, "question": "Hayley avait 25 boulettes de viande dans son assiette. Kirsten a vol\u00e9 quelques-unes de ses boulettes de viande. Elle a maintenant 11 boulettes de viande dans son assiette. Combien de boulettes de viande Kirsten a-t-elle vol\u00e9es ?", "answer": 14.0}
+{"index": 345, "question": "Les cheveux d'Isabella mesurent 18 pouces de long. Si elle se fait couper les cheveux et que ses cheveux mesurent maintenant 9 pouces de long, quelle partie des cheveux d'Isabella a \u00e9t\u00e9 coup\u00e9e\u00a0?", "answer": 9.0}
+{"index": 346, "question": "Les cheveux d'Isabella mesurent 18 pouces de long. \u00c0 la fin de l\u2019ann\u00e9e, ses cheveux mesurent 24 pouces de long. Combien de cheveux a-t-elle pouss\u00e9 ?", "answer": 6.0}
+{"index": 347, "question": "Jovana avait 5 livres de coquillages dans son seau. Elle a ajout\u00e9 quelques coquilles et dispose d\u00e9sormais de 28 livres de coquilles. Combien de kilos a-t-elle ajout\u00e9 ?", "answer": 23.0}
+{"index": 348, "question": "Le crayon d'Isha mesure 31 pouces de long. Si elle le taille, son crayon mesure d\u00e9sormais 14 pouces de long. Combien a-t-elle taill\u00e9 son crayon ?", "answer": 17.0}
+{"index": 349, "question": "Mme Sheridan a 11 chats. De combien de chats suppl\u00e9mentaires Mme Sheridan a-t-elle besoin pour avoir 43 chats ?", "answer": 32.0}
+{"index": 350, "question": "Mme Sheridan a 11 chats. Mme Garrett a 24 chats. Combien de chats de plus Mme Garrett a-t-elle que Mme Sheridan ?", "answer": 13.0}
+{"index": 351, "question": "Mme Wong a eu 30 Saint-Valentin. Elle a offert 8 Saint-Valentin \u00e0 ses enfants. Combien lui en reste-t-il ?", "answer": 22.0}
+{"index": 352, "question": "Mme Franklin a eu 58 Saint-Valentin. Mme Franklin en a donn\u00e9 \u00e0 ses \u00e9l\u00e8ves. Elle en a maintenant 16. Combien de cartes de Saint-Valentin Mme Franklin a-t-elle offertes \u00e0 ses \u00e9l\u00e8ves\u00a0?", "answer": 42.0}
+{"index": 353, "question": "Mme Snyder a pr\u00e9par\u00e9 86 biscuits en forme de c\u0153ur. Elle a fait 36 \u200b\u200bbiscuits rouges et le reste est rose. Combien de cookies roses a-t-elle fait ?", "answer": 50.0}
+{"index": 354, "question": "Mme Santiago poss\u00e8de 58 roses rouges. Mme Garrett en a 24. Combien de roses rouges de plus Mme Santiago poss\u00e8de-t-elle par rapport \u00e0 Mme Garrett\u00a0?", "answer": 34.0}
+{"index": 355, "question": "14 oiseaux \u00e9taient assis dans un arbre. 21 autres oiseaux se sont envol\u00e9s vers l'arbre. Combien d\u2019oiseaux y avait-il en tout dans l\u2019arbre ?", "answer": 35.0}
+{"index": 356, "question": "29 oiseaux \u00e9taient assis dans un arbre. D'autres volent jusqu'\u00e0 l'arbre. Ensuite, il y avait 42 oiseaux dans l'arbre. Combien d\u2019autres ont vol\u00e9 jusqu\u2019\u00e0 l\u2019arbre ?", "answer": 13.0}
+{"index": 357, "question": "La m\u00e8re de Cindy a pr\u00e9par\u00e9 41 biscuits. Le p\u00e8re de Paul a pr\u00e9par\u00e9 38 biscuits. Ils les ont tous deux emmen\u00e9s \u00e0 l'\u00e9cole pour une f\u00eate. Combien de cookies avaient-ils en tout\u00a0?", "answer": 79.0}
+{"index": 358, "question": "18 enfants montaient dans le bus. \u00c0 l'arr\u00eat de bus, d'autres enfants sont mont\u00e9s dans le bus. Il y avait alors 25 enfants en tout dans le bus. Combien d\u2019enfants sont mont\u00e9s dans le bus \u00e0 l\u2019arr\u00eat de bus\u00a0?", "answer": 7.0}
+{"index": 359, "question": "Misha a 34 dollars. Combien de dollars suppl\u00e9mentaires doit-elle gagner pour avoir 47 dollars\u00a0?", "answer": 13.0}
+{"index": 360, "question": "Il y avait 28 filles et 35 gar\u00e7ons sur la cour de r\u00e9cr\u00e9ation. Combien y avait-il d\u2019enfants en tout ?", "answer": 63.0}
+{"index": 361, "question": "Il y avait 44 gar\u00e7ons et 53 filles sur la cour de r\u00e9cr\u00e9ation. Combien d\u2019enfants y avait-il en tout dans l\u2019aire de jeux\u00a0?", "answer": 97.0}
+{"index": 362, "question": "Il y avait 58 oies et 37 canards dans le marais. Combien y avait-il d\u2019oiseaux en tout ?", "answer": 95.0}
+{"index": 363, "question": "Paul avait 42 fraises dans son panier. Il a cueilli 78 fraises suppl\u00e9mentaires. Combien de fraises avait-il alors ?", "answer": 120.0}
+{"index": 364, "question": "Robin avait 18 morceaux de chewing-gum. Son fr\u00e8re lui a donn\u00e9 quelques morceaux suppl\u00e9mentaires. Maintenant, Robin a 44 pi\u00e8ces en tout. Combien de morceaux de chewing-gum le fr\u00e8re de Robin lui a-t-il donn\u00e9 ?", "answer": 26.0}
+{"index": 365, "question": "Bobby a 142 livres. Kristi a 78 livres. Combien de livres Bobby a-t-il de plus que Kristi ?", "answer": 64.0}
+{"index": 366, "question": "Tommy avait des ballons. Sa m\u00e8re lui a offert 34 ballons suppl\u00e9mentaires pour son anniversaire. Ensuite, Tommy avait 60 ballons. Avec combien de ballons Tommy devait-il commencer ?", "answer": 26.0}
+{"index": 367, "question": "Il y avait 14 enfants sur le terrain de football. 22 enfants ont d\u00e9cid\u00e9 de participer. Maintenant, combien d\u2019enfants y a-t-il sur le terrain de football\u00a0?", "answer": 36.0}
+{"index": 368, "question": "Jane a 28 vieilles feuilles de papier \u00e0 dessin marron et 27 vieilles feuilles de papier \u00e0 dessin jaunes. Combien de morceaux de papier \u00e0 dessin poss\u00e8de-t-elle ?", "answer": 55.0}
+{"index": 369, "question": "Mikey avait 356 feuilles. Certaines de ses feuilles ont \u00e9t\u00e9 emport\u00e9es. Il lui reste maintenant 112 feuilles. Combien de ses feuilles ont \u00e9t\u00e9 emport\u00e9es par le vent ?", "answer": 244.0}
+{"index": 370, "question": "Marcus poss\u00e8de 210 cartes de baseball. Il en a 58 de plus que Carter. Combien de cartes de baseball Carter poss\u00e8de-t-il ?", "answer": 152.0}
+{"index": 371, "question": "Gavin a 23 chemises. 6 sont bleus, les autres sont verts. Combien de chemises vertes Gavin a-t-il ?", "answer": 17.0}
+{"index": 372, "question": "Ethan a 31 cadeaux. Alissa en a 22 de plus qu\u2019Ethan. Combien de cadeaux Alissa a-t-elle ?", "answer": 53.0}
+{"index": 373, "question": "Le premier jour de la semaine, Pat avait 39 autocollants. Pat en a gagn\u00e9 22 de plus au cours de la semaine. Combien d\u2019autocollants Pat avait-il \u00e0 la fin de la semaine\u00a0?", "answer": 61.0}
+{"index": 374, "question": "Kelly avait 56 pommes. Combien de pommes suppl\u00e9mentaires Kelly doit-elle cueillir pour avoir 105 pommes en tout ?", "answer": 49.0}
+{"index": 375, "question": "Todd a du chewing-gum. Steve lui a donn\u00e9 16 autres morceaux de chewing-gum. Todd a maintenant 54 morceaux de chewing-gum. Avec combien de pi\u00e8ces Todd devait-il commencer ?", "answer": 38.0}
+{"index": 376, "question": "Josh avait 142 crayons. Il a donn\u00e9 31 crayons \u00e0 Dorothy. Combien de crayons reste-t-il \u00e0 Josh ?", "answer": 111.0}
+{"index": 377, "question": "Nell collectionne les cartes de baseball. Elle avait 304 cartes. Elle a donn\u00e9 certaines de ses cartes \u00e0 Jeff et il lui reste d\u00e9sormais 276 cartes. Combien de cartes Nell a-t-elle donn\u00e9es \u00e0 Jeff\u00a0?", "answer": 28.0}
+{"index": 378, "question": "Sarah avait des camions. Elle en a donn\u00e9 13 \u00e0 Jeff, et il lui reste maintenant 38 camions. Avec combien de camions Sarah devait-elle commencer ?", "answer": 51.0}
+{"index": 379, "question": "Il y a 40 gar\u00e7ons et quelques filles sur la cour de r\u00e9cr\u00e9ation. Il y a en tout 117 enfants. Combien de filles y a-t-il dans la cour de r\u00e9cr\u00e9ation ?", "answer": 77.0}
+{"index": 380, "question": "Megan avait 49 marqueurs. Robert lui a donn\u00e9 39 marqueurs suppl\u00e9mentaires. Combien de marqueurs Megan poss\u00e8de-t-elle en tout\u00a0?", "answer": 88.0}
+{"index": 381, "question": "Chaque support de CD peut contenir 8 CD. Une \u00e9tag\u00e8re peut contenir 4 casiers. Combien de CD au total peuvent tenir sur l\u2019\u00e9tag\u00e8re\u00a0?", "answer": 32.0}
+{"index": 382, "question": "Carla a des billes. Elle a achet\u00e9 134 billes. Elle poss\u00e8de d\u00e9sormais 187 billes. Avec combien a-t-elle commenc\u00e9 ?", "answer": 53.0}
+{"index": 383, "question": "Kelly poss\u00e8de 50 jeux Nintendo. Combien doit-elle en donner pour qu\u2019il lui reste 35 jeux\u00a0?", "answer": 15.0}
+{"index": 384, "question": "Connie avait des billes. Elle en a donn\u00e9 73 \u00e0 Juan. Il lui reste maintenant 70 billes. Avec combien en avait-elle au d\u00e9part ?", "answer": 143.0}
+{"index": 385, "question": "Connie a 41 marqueurs rouges et 64 marqueurs bleus. Combien de marqueurs a-t-elle en tout ?", "answer": 105.0}
+{"index": 386, "question": "Iesha a 58 livres. 19 concernent l\u2019\u00e9cole et les autres concernent le sport. Combien de livres sur le sport Iesha poss\u00e8de-t-elle\u00a0?", "answer": 39.0}
+{"index": 387, "question": "James a 232 ballons. Amy a 101 ballons. Combien de ballons James a-t-il de plus qu\u2019Amy ?", "answer": 131.0}
+{"index": 388, "question": "Sean a 45 sifflets. Il a 32 sifflets de plus que Charles. Combien de sifflets Charles poss\u00e8de-t-il ?", "answer": 13.0}
+{"index": 389, "question": "Connie a 39 billes. Juan a 25 billes de plus que Connie. Combien de billes Juan poss\u00e8de-t-il ?", "answer": 64.0}
+{"index": 390, "question": "Joe avait 50 petites voitures. S\u2019il obtient 12 voitures suppl\u00e9mentaires, combien de voitures aura-t-il alors ?", "answer": 62.0}
+{"index": 391, "question": "Il y a 64 porcs dans l'\u00e9table. D'autres viennent les rejoindre. Il y a maintenant 86 cochons. Combien de cochons sont venus les rejoindre ?", "answer": 22.0}
+{"index": 392, "question": "Rosa avait 67 fleurs. Andr\u00e9 lui a offert d'autres fleurs. Aujourd'hui, Rosa a 90 fleurs. Combien de fleurs Andr\u00e9 a-t-il offert \u00e0 Rosa ?", "answer": 23.0}
+{"index": 393, "question": "Adolfo a construit une tour de 35 blocs. Il a ajout\u00e9 quelques blocs suppl\u00e9mentaires et il dispose d\u00e9sormais de 65 blocs. Combien devait-il en ajouter ?", "answer": 30.0}
+{"index": 394, "question": "Josh avait 16 billes dans sa collection. Il a perdu 7 billes. Combien de billes a-t-il maintenant ?", "answer": 9.0}
+{"index": 395, "question": "Megan a 19 coquillages. Combien de coquillages suppl\u00e9mentaires doit-elle trouver pour avoir 25 coquillages dans sa collection\u00a0?", "answer": 6.0}
+{"index": 396, "question": "Brad a 17 ballons. 8 ballons sont rouges et les autres sont verts. Combien de ballons verts Brad poss\u00e8de-t-il ?", "answer": 9.0}
+{"index": 397, "question": "Il y a 38 livres sur l'\u00e9tag\u00e8re. Marta a mis 10 livres suppl\u00e9mentaires sur l'\u00e9tag\u00e8re. Combien de livres y a-t-il actuellement en rayon ?", "answer": 48.0}
+{"index": 398, "question": "Une abeille a 6 pattes. Combien de pattes ont 8 abeilles ?", "answer": 48.0}
+{"index": 399, "question": "Mme Hilt a achet\u00e9 un cornet de glace pour 99 cents. Combien co\u00fbteraient 2 cornets de glace ?", "answer": 198.0}
+{"index": 400, "question": "Mme Hilt souhaite cr\u00e9er une bordure autour de son jardin. Elle a besoin de 125 pierres pour compl\u00e9ter la fronti\u00e8re. Elle a 64 pierres. De combien de pierres suppl\u00e9mentaires a-t-elle besoin pour terminer la fronti\u00e8re\u00a0?", "answer": 61.0}
+{"index": 401, "question": "Mme Hilt et sa s\u0153ur se sont rendues \u00e0 un concert \u00e0 78 miles de l\u00e0. Ils ont parcouru 32 milles puis se sont arr\u00eat\u00e9s pour faire le plein d'essence. Sa s\u0153ur a mis 28 gallons d'essence dans la voiture. Combien de kilom\u00e8tres leur reste-t-il \u00e0 parcourir ?", "answer": 46.0}
+{"index": 402, "question": "Mme Hilt a achet\u00e9 6 hot-dogs. Chaque hot-dog co\u00fbte 50 cents. Combien d'argent a-t-elle pay\u00e9 pour tous les hot-dogs\u00a0?", "answer": 300.0}
+{"index": 403, "question": "Mme Hilt a 50 cents. Un crayon co\u00fbte 5 centimes. Combien de crayons peut-elle acheter avec l\u2019argent dont elle dispose ?", "answer": 10.0}
+{"index": 404, "question": "Mme Hilt a achet\u00e9 3 pizzas pour 8 $ chacune. Quel a \u00e9t\u00e9 le montant total qu'elle a pay\u00e9 pour les trois pizzas\u00a0?", "answer": 24.0}
+{"index": 405, "question": "Les Hawks ont marqu\u00e9 3 touch\u00e9s valant 7 points chacun. Combien de points ont-ils ?", "answer": 21.0}
+{"index": 406, "question": "Zach a marqu\u00e9 42 points dans le match de football. Ben a marqu\u00e9 21 points. Combien de points suppl\u00e9mentaires Zach a-t-il marqu\u00e9\u00a0?", "answer": 21.0}
+{"index": 407, "question": "Kate a 223 centimes. John a 388 centimes. De combien d\u2019argent John dispose-t-il encore\u00a0?", "answer": 165.0}
+{"index": 408, "question": "Tim avait 50 cents. Il a pay\u00e9 45 cents pour une barre chocolat\u00e9e. Quelle monnaie obtiendra-t-il ?", "answer": 5.0}
+{"index": 409, "question": "Mark a 13 arbres dans son jardin. S\u2019il en plante 12 de plus, combien d\u2019arbres aura-t-il ?", "answer": 25.0}
+{"index": 410, "question": "Kim a 4 cousins. Elle veut donner \u00e0 chaque cousin 5 morceaux de chewing-gum. De quelle quantit\u00e9 de chewing-gum aura-t-elle besoin\u00a0?", "answer": 20.0}
+{"index": 411, "question": "Dan a 3,00 $. Il a achet\u00e9 une barre chocolat\u00e9e pour 1,00 $. Combien d'argent reste-t-il ?", "answer": 2.0}
+{"index": 412, "question": "5 bateaux sont dans le lac. Chaque bateau dispose de 3 personnes. Combien de personnes y a-t-il sur les bateaux sur le lac ?", "answer": 15.0}
+{"index": 413, "question": "Charlie a 31 boules de neige de plus que Lucy. Elle a 19 boules de neige. Combien Charlie en a-t-il ?", "answer": 50.0}
+{"index": 414, "question": "Randy a 78 blocs. Il utilise 19 blocs pour construire une tour. Combien de blocs reste-t-il ?", "answer": 59.0}
+{"index": 415, "question": "Bryan poss\u00e8de 50 quilles. Ben a 20 M&M\u2019s. Qui en a plus ? Combien en a-t-il encore ?", "answer": 30.0}
+{"index": 416, "question": "Paul a re\u00e7u une bo\u00eete de 479 crayons de couleur pour son anniversaire. A la fin de l\u2019ann\u00e9e scolaire, il ne lui en restait plus que 134. Combien de crayons de couleur ont \u00e9t\u00e9 perdus ou donn\u00e9s\u00a0?", "answer": 345.0}
+{"index": 417, "question": "179 oiseaux \u00e9taient perch\u00e9s dans un arbre. 38 autres oiseaux se sont envol\u00e9s vers l'arbre. Combien d\u2019oiseaux y avait-il en tout dans l\u2019arbre ?", "answer": 217.0}
+{"index": 418, "question": "La m\u00e8re de Cindy a pr\u00e9par\u00e9 1\u00a0215 biscuits. Le p\u00e8re de Paul a pr\u00e9par\u00e9 1\u00a0112 biscuits. Ils les ont tous deux emmen\u00e9s \u00e0 l'\u00e9cole pour une f\u00eate. Combien de cookies avaient-ils en tout\u00a0?", "answer": 2327.0}
+{"index": 419, "question": "231 oiseaux \u00e9taient assis dans un arbre. D'autres volent jusqu'\u00e0 l'arbre. Il y avait alors 312 oiseaux dans l\u2019arbre. Combien d\u2019autres volent jusqu\u2019\u00e0 l\u2019arbre ?", "answer": 81.0}
+{"index": 420, "question": "64 enfants \u00e9taient \u00e0 bord du bus. \u00c0 l'arr\u00eat de bus, d'autres enfants sont mont\u00e9s dans le bus. Il y avait alors 78 enfants au total dans le bus. Combien d\u2019enfants sont mont\u00e9s dans le bus \u00e0 l\u2019arr\u00eat de bus\u00a0?", "answer": 14.0}
+{"index": 421, "question": "Misha a 34 dollars. Combien de dollars doit-elle gagner pour avoir 47 dollars pour acheter un chien ?", "answer": 13.0}
+{"index": 422, "question": "Elisa a 37 dollars. Combien de dollars suppl\u00e9mentaires doit-elle gagner pour avoir 53 dollars\u00a0?", "answer": 16.0}
+{"index": 423, "question": "James avait 39 autocollants. Il a re\u00e7u d'autres autocollants pour son anniversaire. Ensuite, il avait 61 autocollants. Combien d\u2019autocollants James a-t-il re\u00e7u pour son anniversaire ?", "answer": 22.0}
+{"index": 424, "question": "Il y avait 27 gar\u00e7ons et 35 filles sur la cour de r\u00e9cr\u00e9ation. Combien d\u2019enfants y avait-il dans l\u2019aire de jeux \u00e0 la r\u00e9cr\u00e9ation ?", "answer": 62.0}
+{"index": 425, "question": "Il y avait 58 oies et 37 canards dans le marais. Combien d\u2019oiseaux y avait-il dans le marais ?", "answer": 95.0}
+{"index": 426, "question": "Paul avait 28 fraises dans son panier. Il a cueilli 35 fraises suppl\u00e9mentaires. Combien de fraises avait-il alors ?", "answer": 63.0}
+{"index": 427, "question": "Gary avait 73 dollars. Il a d\u00e9pens\u00e9 55 dollars pour un serpent de compagnie. Combien de dollars lui reste-t-il \u00e0 Gary\u00a0?", "answer": 18.0}
+{"index": 428, "question": "Il y a 397 papillons. Chaque papillon comporte 12 points noirs et 17 points jaunes. Combien y a-t-il de points noirs en tout ?", "answer": 4764.0}
+{"index": 429, "question": "Combien de cookies auriez-vous si vous aviez 37 sacs de cookies avec 19 cookies dans chaque sac\u00a0?", "answer": 703.0}
+{"index": 430, "question": "Combien co\u00fbteraient 136 morceaux de bubble-gum si chaque morceau co\u00fbtait 18 cents\u00a0?", "answer": 2448.0}
+{"index": 431, "question": "Pour la pi\u00e8ce de cinqui\u00e8me ann\u00e9e, les chaises ont \u00e9t\u00e9 r\u00e9parties en 27 rang\u00e9es avec 16 chaises dans chaque rang\u00e9e. Combien de chaises ont \u00e9t\u00e9 install\u00e9es pour la pi\u00e8ce ?", "answer": 432.0}
+{"index": 432, "question": "La grande roue du Paradise Park dispose de 14 places. Chaque si\u00e8ge peut accueillir 6 personnes. Combien de personnes peuvent monter sur la grande roue en m\u00eame temps ?", "answer": 84.0}
+{"index": 433, "question": "Un jardin comporte 52 rang\u00e9es et 15 colonnes de plans de haricots. Combien y a-t-il de plantes en tout ?", "answer": 780.0}
+{"index": 434, "question": "Un bac \u00e0 sable mesure 312 centim\u00e8tres de long et 146 centim\u00e8tres de large. Combien de centim\u00e8tres carr\u00e9s de sol le bac \u00e0 sable couvre-t-il ?", "answer": 45552.0}
+{"index": 435, "question": "Sarah a cueilli 45 pommes. Son fr\u00e8re a cueilli 9 pommes. Combien de fois plus de pommes Sarah a-t-elle cueillies ?", "answer": 5.0}
+{"index": 436, "question": "Il y a 261 bocaux \u00e0 poissons. Chaque bocal \u00e0 poissons contient 23 poissons. Combien y a-t-il de poissons ?", "answer": 6003.0}
+{"index": 437, "question": "Nous avons command\u00e9 21 pizzas. Chaque pizza comporte 8 tranches. Combien y a-t-il de tranches de pizza en tout ?", "answer": 168.0}
+{"index": 438, "question": "Emily a ramass\u00e9 les \u0153ufs de la poule et les a mis dans 303 paniers. Elle a mis 28 \u0153ufs dans chaque panier. Combien d\u2019\u0153ufs Emily a-t-elle ramass\u00e9s ?", "answer": 8484.0}
+{"index": 439, "question": "Il y avait 150 \u00e9tag\u00e8res de livres. Chaque \u00e9tag\u00e8re contenait 15 livres. Combien de livres y avait-il sur les \u00e9tag\u00e8res ?", "answer": 2250.0}
+{"index": 440, "question": "Il y a 84 feuilles. Il y a 139 coccinelles sur chaque feuille. Combien y a-t-il de coccinelles en tout ?", "answer": 11676.0}
+{"index": 441, "question": "Il y a 37 paniers. Il y a 17 pommes dans chaque panier. Combien y a-t-il de pommes en tout ?", "answer": 629.0}
+{"index": 442, "question": "Il y a 544 pots. Chaque pot contient 32 fleurs. Combien y a-t-il de fleurs en tout ?", "answer": 17408.0}
+{"index": 443, "question": "Votre classe organise une soir\u00e9e pizza. Vous achetez 5 pizzas. Chaque pizza comporte 4 tranches. Cela fait combien de tranches en tout ?", "answer": 20.0}
+{"index": 444, "question": "Beth a 4 paquets de crayons. Chaque paquet contient 10 crayons de couleur. Elle a \u00e9galement 6 crayons suppl\u00e9mentaires. Combien de crayons Beth a-t-elle en tout ?", "answer": 40.0}
+{"index": 445, "question": "Ted a 15 barres chocolat\u00e9es. Il veut les mettre dans 5 sacs pour qu'il y ait le m\u00eame nombre de barres chocolat\u00e9es dans chaque sac. Combien de barres chocolat\u00e9es doivent contenir chaque sac\u00a0?", "answer": 3.0}
+{"index": 446, "question": "Une confiserie poss\u00e8de 6 bo\u00eetes de chocolats. Chaque bo\u00eete contient 500 pi\u00e8ces. Combien de pi\u00e8ces y a-t-il en tout dans les bo\u00eetes ?", "answer": 3000.0}
+{"index": 447, "question": "Martha a achet\u00e9 18 petits g\u00e2teaux. Elle a 3 enfants. Elle aimerait r\u00e9partir les g\u00e2teaux entre ses enfants afin que chaque enfant re\u00e7oive la m\u00eame quantit\u00e9. Combien de g\u00e2teaux chaque enfant recevrait-il\u00a0?", "answer": 6.0}
+{"index": 448, "question": "Julian \u00e9crit une bande dessin\u00e9e. Son histoire compte 143 images en tout. S\u2019il veut mettre exactement 11 cadres sur chaque page, de combien de pages disposera-t-il\u00a0?", "answer": 13.0}
+{"index": 449, "question": "La chambre de Jesse mesure 12 pieds de long et 8 pieds de large. De quelle quantit\u00e9 de tapis a-t-elle besoin pour couvrir tout le sol\u00a0?", "answer": 96.0}
+{"index": 450, "question": "Il y a 5 personnes dans l'\u00e9quipe d'athl\u00e9tisme de Green Bay High. Si une course de relais fait 150 m\u00e8tres de long, quelle distance chaque membre de l'\u00e9quipe devra-t-il parcourir\u00a0?", "answer": 30.0}
+{"index": 451, "question": "Il faut 4 pieds de coton pour fabriquer un tee-shirt. Combien de tee-shirts peut-on fabriquer avec 60 pieds de tissu ?", "answer": 15.0}
+{"index": 452, "question": "Lukas marque en moyenne 12 points par match de basket-ball. Combien de points marquerait-il en 5 matchs ?", "answer": 60.0}
+{"index": 453, "question": "Ma voiture atteint 20 miles par gallon. Combien de kilom\u00e8tres puis-je parcourir avec 5 gallons d\u2019essence ?", "answer": 100.0}
+{"index": 454, "question": "Il faut 7 minutes pour cuire un moule \u00e0 biscuits. Combien de temps faudra-t-il pour cuire 4 moules \u00e0 biscuits ?", "answer": 28.0}
+{"index": 455, "question": "Ma voiture consomme 20 miles par gallon d'essence. Si la maison de grand-m\u00e8re est \u00e0 100\u00a0miles (160\u00a0km), combien de gallons d\u2019essence faudrait-il pour arriver jusqu\u2019\u00e0 sa maison\u00a0?", "answer": 5.0}
+{"index": 456, "question": "Melissa a marqu\u00e9 120 points \u00e0 chaque match. Combien de points a-t-elle marqu\u00e9 en 10 matchs ?", "answer": 1200.0}
+{"index": 457, "question": "Johnny s'est entra\u00een\u00e9 pour l'\u00e9quipe d'athl\u00e9tisme et a couru 3 tours par minute. Combien de minutes a-t-il fallu \u00e0 Johnny pour parcourir 10 tours\u00a0?", "answer": 3.33333}
+{"index": 458, "question": "Nos past\u00e8ques contiennent chacune 100 graines. Si nous avons 4 past\u00e8ques, combien de graines devrait-il y avoir lorsque toutes les graines sont retir\u00e9es des past\u00e8ques ?", "answer": 400.0}
+{"index": 459, "question": "Robin a 9 paquets de chewing-gum. Il y a 15 pi\u00e8ces dans chaque paquet. Combien de morceaux de chewing-gum Robin a-t-il ?", "answer": 135.0}
+{"index": 460, "question": "63 personnes vont au zoo. Il y a 3 voitures pour emmener les gens au zoo. Combien y en aura-t-il dans chaque voiture si le m\u00eame nombre entre dans chaque voiture\u00a0?", "answer": 21.0}
+{"index": 461, "question": "J'ai 80 cents pour acheter des bonbons. Si chaque boule de gomme co\u00fbte 4 cents, combien de boules de gomme puis-je acheter\u00a0?", "answer": 20.0}
+{"index": 462, "question": "Maggi avait 3 paquets de cupcakes. Il y a 4 cupcakes dans chaque paquet. Elle a mang\u00e9 5 cupcakes. Combien en reste-t-il?", "answer": 12.0}
+{"index": 463, "question": "58 enfants prennent un bus pour le zoo. Ils font asseoir 2 enfants sur chaque si\u00e8ge. De combien de si\u00e8ges les enfants auront-ils besoin en tout ?", "answer": 29.0}
+{"index": 464, "question": "Marlee re\u00e7oit 12 invit\u00e9s \u00e0 sa f\u00eate d'Halloween. Chaque table pourra accueillir 3 convives. De combien de tables aura-t-elle besoin ?", "answer": 4.0}
+{"index": 465, "question": "Warren accueille 252 invit\u00e9s \u00e0 sa f\u00eate. Chaque table pourra accueillir 4 convives. De combien de tables aura-t-il besoin ?", "answer": 63.0}
+{"index": 466, "question": "Arthur a pr\u00e9par\u00e9 35 muffins. Combien de muffins suppl\u00e9mentaires Arthur doit-il cuire pour avoir 83 muffins ?", "answer": 48.0}
+{"index": 467, "question": "Il y a 10 autocollants sur une page. Si vous avez 22 pages d\u2019autocollants, combien d\u2019autocollants avez-vous\u00a0?", "answer": 220.0}
+{"index": 468, "question": "Il y a 96 cupcakes \u00e0 partager pour 8 enfants. Combien chaque personne recevra-t-elle si elle partage les cupcakes \u00e0 parts \u00e9gales\u00a0?", "answer": 12.0}
+{"index": 469, "question": "Jos\u00e9 a 85 cacahu\u00e8tes. Le Kenya en compte 48 de plus que Jos\u00e9. Combien de cacahu\u00e8tes le Kenya poss\u00e8de-t-il ?", "answer": 133.0}
+{"index": 470, "question": "Les t-shirts blancs peuvent \u00eatre achet\u00e9s par paquets de 6. Si maman ach\u00e8te 71 paquets, combien de t-shirts blancs aura-t-elle ?", "answer": 426.0}
+{"index": 471, "question": "J'ai 648 crayons. Si je mets 4 crayons dans chaque bo\u00eete \u00e0 crayons, combien de bo\u00eetes \u00e0 crayons vais-je remplir\u00a0?", "answer": 162.0}
+{"index": 472, "question": "Oncle Dave a achet\u00e9 143 sandwichs \u00e0 la cr\u00e8me glac\u00e9e. S\u2019il veut les donner \u00e0 ses 11 ni\u00e8ces affam\u00e9es, combien chaque ni\u00e8ce peut-elle en obtenir\u00a0?", "answer": 13.0}
+{"index": 473, "question": "Megan avait 217 marqueurs. Robert lui a donn\u00e9 109 marqueurs suppl\u00e9mentaires. Combien de marqueurs Megan poss\u00e8de-t-elle en tout\u00a0?", "answer": 326.0}
+{"index": 474, "question": "Un livre DVD contient 126 DVD. Il y a d\u00e9j\u00e0 81 DVD dans le livre. Combien de DVD suppl\u00e9mentaires peut-on mettre dans le livre ?", "answer": 45.0}
+{"index": 475, "question": "Carla a des billes. Elle a achet\u00e9 489 billes. Elle poss\u00e8de d\u00e9sormais 2778 billes en tout. Avec combien a-t-elle commenc\u00e9 ?", "answer": 2289.0}
+{"index": 476, "question": "Kelly poss\u00e8de 121 jeux Nintendo. Combien doit-elle en donner pour qu\u2019il lui reste 22 matchs\u00a0?", "answer": 99.0}
+{"index": 477, "question": "Connie avait des billes. Elle en a donn\u00e9 183 \u00e0 Juan. Il lui reste maintenant 593 billes. Avec combien en avait-elle au d\u00e9part ?", "answer": 776.0}
+{"index": 478, "question": "Connie poss\u00e8de 2 315 marqueurs rouges et 1 028 marqueurs bleus. Combien de marqueurs a-t-elle en tout ?", "answer": 3343.0}
+{"index": 479, "question": "Iesha a 344 livres. 136 concernent l\u2019\u00e9cole et le reste concerne le sport. Combien de livres sur le sport Iesha poss\u00e8de-t-elle\u00a0?", "answer": 208.0}
+{"index": 480, "question": "Sean a 223 sifflets. Il a 95 sifflets de plus que Charles. Combien de sifflets Charles poss\u00e8de-t-il ?", "answer": 128.0}
+{"index": 481, "question": "Robin a 27 paquets de chewing-gum. Il y a 18 pi\u00e8ces dans chaque paquet. Combien de morceaux de chewing-gum Robin a-t-il ?", "answer": 486.0}
+{"index": 482, "question": "Adam dispose de 5,00 $ pour acheter un avion qui co\u00fbte 4,28 $. Quelle monnaie obtiendra-t-il ?", "answer": 0.72}
+{"index": 483, "question": "Si chaque balle co\u00fbte 1,54 $, combien Kyoko doit-il payer pour 3 balles\u00a0?", "answer": 4.62}
+{"index": 484, "question": "M. Guzman a achet\u00e9 48 beignets emball\u00e9s \u00e9galement dans 4 bo\u00eetes. Combien de beignets y avait-il dans chaque bo\u00eete\u00a0?", "answer": 12.0}
+{"index": 485, "question": "La famille Sumata a pris 5 jours de vacances en voiture. Chaque jour, ils parcouraient 250 milles. Combien de kilom\u00e8tres au total ont-ils parcourus\u00a0?", "answer": 1250.0}
+{"index": 486, "question": "La ville de Milburg compte 5 256 adultes et 2 987 enfants. Combien y a-t-il d\u2019habitants \u00e0 Milburg ?", "answer": 8243.0}
+{"index": 487, "question": "Lisa a lou\u00e9 4 DVD pour 4,80 $. Combien co\u00fbte la location de chaque DVD\u00a0?", "answer": 1.2}
+{"index": 488, "question": "Il y avait 3409 bonbons dans un pot. Si 145 pi\u00e8ces \u00e9taient rouges et le reste bleue, combien \u00e9taient bleues ?", "answer": 3264.0}
+{"index": 489, "question": "Les \u00e9l\u00e8ves de troisi\u00e8me ann\u00e9e sont all\u00e9s \u00e0 un concert dans 8 bus. Chaque bus transportait 45 \u00e9tudiants. Combien d\u2019\u00e9l\u00e8ves sont all\u00e9s au concert ?", "answer": 360.0}
+{"index": 490, "question": "Il y a 124 \u00e9l\u00e8ves qui obtiennent chacun 3 \u00e9toiles pour le mur de l'\u00e9cole. Combien d\u2019\u00e9toiles feront-ils en tout ?", "answer": 372.0}
+{"index": 491, "question": "6 \u00e9tudiants \u00e9taient assis \u00e0 chaque table de la salle \u00e0 manger. Il y a 34 tableaux. Combien d\u2019\u00e9l\u00e8ves \u00e9taient assis dans la salle \u00e0 manger\u00a0?", "answer": 204.0}
+{"index": 492, "question": "Tyler avait 15 chiens. Chaque chien avait 5 chiots. Combien de chiots Tyler a-t-il maintenant ?", "answer": 75.0}
+{"index": 493, "question": "Le fermier poss\u00e9dait 127 pommes. Il a donn\u00e9 88 pommes \u00e0 son voisin. Combien de pommes a-t-il maintenant ?", "answer": 39.0}
+{"index": 494, "question": "Jill a invit\u00e9 37 personnes \u00e0 sa f\u00eate d'anniversaire. Ils ont mang\u00e9 chacun 8 morceaux de pizza. Combien de morceaux de pizza ont-ils mang\u00e9 ?", "answer": 296.0}
+{"index": 495, "question": "Mme Hilt utilise 2 onces de d\u00e9tergent pour laver une livre de v\u00eatements. Combien d\u2019onces de savon utilisera-t-elle pour laver 9 livres de v\u00eatements\u00a0?", "answer": 18.0}
+{"index": 496, "question": "Mme Hilt est all\u00e9e \u00e0 un concert. Au total, 65 899 personnes ont assist\u00e9 au concert. La semaine suivante, elle s'est rendue \u00e0 un deuxi\u00e8me concert, auquel ont assist\u00e9 119 personnes suppl\u00e9mentaires. Combien de personnes \u00e9taient pr\u00e9sentes au deuxi\u00e8me concert ?", "answer": 66018.0}
+{"index": 497, "question": "Mme Hilt a pr\u00e9par\u00e9 des tartes le week-end dernier pour un d\u00eener de vacances. Elle a pr\u00e9par\u00e9 16 tartes aux pacanes et 14 tartes aux pommes. Si elle veut disposer toutes les tartes en rang\u00e9es de 5 tartes chacune, combien de rang\u00e9es aura-t-elle ?", "answer": 30.0}
+{"index": 498, "question": "Mme Hilt doit partager 3,75 $ \u00e0 parts \u00e9gales entre 3 personnes au total. Combien d\u2019argent chaque personne recevra-t-elle ?", "answer": 1.25}
+{"index": 499, "question": "Mme Hilt a lu 4 livres. Chaque livre contenait 17 chapitres. Combien de chapitres Mme Hilt a-t-elle lu\u00a0?", "answer": 68.0}
+{"index": 500, "question": "Mme Hilt a vu 144 abeilles dans la ruche. Le lendemain, elle en a vu 3 fois plus. Combien d\u2019abeilles a-t-elle vu le deuxi\u00e8me jour ?", "answer": 432.0}
+{"index": 501, "question": "Mme Hilt a mesur\u00e9 la distance entre son bureau et la fontaine d'eau. Il faisait 30 pieds. Combien de pieds Mme Hilt parcourra-t-elle lors de ses d\u00e9placements jusqu'\u00e0 la fontaine si elle se rend \u00e0 la fontaine 4 fois aujourd'hui\u00a0?", "answer": 120.0}
+{"index": 502, "question": "Lucy poss\u00e8de un aquarium avec 212 poissons. Elle veut acheter 68 poissons suppl\u00e9mentaires. Combien de poissons Lucy aurait-elle alors ?", "answer": 280.0}
+{"index": 503, "question": "Lucy a 212 poissons. Combien de poissons suppl\u00e9mentaires doit-elle acheter pour avoir 280 poissons\u00a0?", "answer": 68.0}
+{"index": 504, "question": "Rupert et Ronald ont r\u00e9ussi leur test de math\u00e9matiques. Leur m\u00e8re leur a donc achet\u00e9 hier un magnifique trampoline. Ronald a saut\u00e9 157 fois sur le trampoline. Rupert a saut\u00e9 86 fois de plus que Ronald. Combien de fois ont-ils saut\u00e9 en tout ?", "answer": 243.0}
+{"index": 505, "question": "Harry Hound a eu un terrible mal d'oreille hier. Hier, quand j'ai regard\u00e9 dans ses oreilles, j'ai trouv\u00e9 36 puces fringantes faisant la f\u00eate dans son oreille droite et 85 b\u00e9b\u00e9s puces dormant paisiblement dans son oreille gauche. J'ai nettoy\u00e9 les oreilles de Harry Hound. Combien de puces ont p\u00e9ri ?", "answer": 121.0}
+{"index": 506, "question": "Une animalerie poss\u00e8de 600 sacs de nourriture pour chiens et 327 sacs de nourriture pour chats. Combien y a-t-il de sacs de nourriture pour chiens de plus que de nourriture pour chats ?", "answer": 273.0}
+{"index": 507, "question": "532 personnes regardent un film dans une salle de cin\u00e9ma. Le th\u00e9\u00e2tre dispose de 750 places. Combien de si\u00e8ges sont vides dans le th\u00e9\u00e2tre ?", "answer": 218.0}
+{"index": 508, "question": "Chaque sac contient 23 livres d'oranges. Combien y a-t-il de livres d\u2019oranges dans 45 sacs ?", "answer": 1035.0}
+{"index": 509, "question": "Ellen est all\u00e9e \u00e0 un vide-grenier pour acheter des chaises. Chaque chaise co\u00fbte 15 dollars. Combien d\u2019argent Ellen a-t-elle d\u00e9pens\u00e9 pour les 12 chaises qu\u2019elle a achet\u00e9es\u00a0?", "answer": 180.0}
+{"index": 510, "question": "Albert a deux serpents. Le serpent de jardin mesure 10 pouces de long. Le boa constrictor est 7 fois plus long que le serpent des jardins. Quelle est la longueur du boa constrictor ?", "answer": 70.0}
+{"index": 511, "question": "Le carr\u00e9 de choux d\u2019Albert compte 12 rang\u00e9es de choux. Dans chaque rang\u00e9e, il y a 15 t\u00eates de chou. Combien de t\u00eates de chou Albert a-t-il en tout ?", "answer": 180.0}
+{"index": 512, "question": "Marie peut faire du v\u00e9lo \u00e0 une vitesse de 12 milles \u00e0 l'heure. Quelle distance peut-elle parcourir \u00e0 v\u00e9lo en 31 heures\u00a0?", "answer": 372.0}
+{"index": 513, "question": "Tammy a parcouru 55 miles en une heure. \u00c0 ce rythme-l\u00e0, quelle distance peut-elle parcourir en 36 heures\u00a0?", "answer": 1980.0}
+{"index": 514, "question": "Il faut 4 pommes pour faire 1 tarte. Combien de pommes faut-il pour faire 504 tartes ?", "answer": 2016.0}
+{"index": 515, "question": "Vous disposez de 24 cookies et souhaitez les partager \u00e0 parts \u00e9gales avec 6 personnes. Combien de cookies chaque personne recevrait-elle\u00a0?", "answer": 4.0}
+{"index": 516, "question": "Vous lisez un livre de 120 pages. Si vous souhaitez lire le m\u00eame nombre de pages chaque soir, combien devrez-vous lire chaque nuit pour terminer en 10 jours\u00a0?", "answer": 12.0}
+{"index": 517, "question": "Une bo\u00eete de c\u00e9r\u00e9ales contient 18 tasses de c\u00e9r\u00e9ales. Chaque portion correspond \u00e0 2 tasses. Combien de portions y a-t-il dans la bo\u00eete enti\u00e8re ?", "answer": 9.0}
+{"index": 518, "question": "Une bo\u00eete de livres p\u00e8se 42 livres. Chaque livre p\u00e8se 3 livres. Combien de livres y a-t-il dans la bo\u00eete ?", "answer": 14.0}
+{"index": 519, "question": "La m\u00e8re de Sue a pr\u00e9par\u00e9 75 biscuits. Elle a mis les biscuits dans des sacs, avec 3 biscuits dans chaque sac. Combien de sacs pourrait-elle remplir ?", "answer": 25.0}
+{"index": 520, "question": "Frank travaillait 8 heures les 4 premiers jours de la semaine. Combien d'heures a-t-il travaill\u00e9 en tout ?", "answer": 32.0}
+{"index": 521, "question": "La famille de Sue est partie en vacances. Sa m\u00e8re conduisait la voiture \u00e0 60 mph. Ils ont camp\u00e9 dans un terrain de camping apr\u00e8s 5 heures de voyage. \u00c0 quelle distance se trouvait le terrain de camping de leur domicile\u00a0?", "answer": 300.0}
+{"index": 522, "question": "Brett parcourait 55 miles toutes les heures. Combien de kilom\u00e8tres parcourrait-il en 8 heures\u00a0?", "answer": 440.0}
+{"index": 523, "question": "Un score parfait est de 21 points. Combien de points auriez-vous apr\u00e8s 3 matchs parfaits d\u2019affil\u00e9e ?", "answer": 63.0}
+{"index": 524, "question": "La voiture de Brian atteint 20 miles par gallon. Lors de son dernier voyage, il a consomm\u00e9 3 gallons d'essence. Combien de kilom\u00e8tres a-t-il parcouru lors de son dernier voyage ?", "answer": 60.0}
+{"index": 525, "question": "La voiture de Bob roule \u00e0 10 kilom\u00e8tres par gallon. Jusqu'o\u00f9 peut-il conduire avec 10 gallons d'essence\u00a0?", "answer": 100.0}
+{"index": 526, "question": "Chaque tasse contient 8 onces. Combien y a-t-il d'onces dans 33 tasses ?", "answer": 264.0}
+{"index": 527, "question": "Une recette de biscuits aux p\u00e9pites de chocolat n\u00e9cessite 2 tasses de p\u00e9pites de chocolat. Vous souhaitez r\u00e9aliser 23 recettes pour une vente de p\u00e2tisseries. Combien de tasses de p\u00e9pites de chocolat faudra-t-il pour r\u00e9aliser toutes les recettes de biscuits ?", "answer": 46.0}
+{"index": 528, "question": "J'ai un golden retriever de compagnie. Chaque ann\u00e9e, il gagne 11 livres. Il a 8 ans. Combien de kilos p\u00e8se-t-il ?", "answer": 88.0}
+{"index": 529, "question": "La voiture de Mary consomme 20 miles par gallon d\u2019essence. Jusqu'o\u00f9 peut-elle conduire avec 14 gallons d'essence\u00a0?", "answer": 280.0}
+{"index": 530, "question": "J'ai march\u00e9 2 miles en 1 heure pour le Relais pour la vie. Si je maintiens ce rythme pendant les 8 heures que je marche, combien de kilom\u00e8tres au total vais-je parcourir\u00a0?", "answer": 16.0}
+{"index": 531, "question": "Je marche 1 mile toutes les 15 minutes. J'ai march\u00e9 3 miles. Combien de minutes cela m'a pris ?", "answer": 45.0}
+{"index": 532, "question": "Lansing compte 25 \u00e9coles \u00e9l\u00e9mentaires. Il y a 247 \u00e9l\u00e8ves dans chaque \u00e9cole. Combien y a-t-il d\u2019\u00e9l\u00e8ves du primaire \u00e0 Lansing ?", "answer": 6175.0}
+{"index": 533, "question": "256 \u00e9l\u00e8ves vont au zoo. Ils doivent \u00eatre divis\u00e9s en groupes afin que chaque enseignant ait un groupe. Il y a 8 professeurs. Combien d\u2019\u00e9l\u00e8ves y aura-t-il dans chaque groupe ?", "answer": 32.0}
+{"index": 534, "question": "Une ferme fruiti\u00e8re emballe des oranges dans des bo\u00eetes de 10 chacune. Un jour, elle conditionne 2 650 oranges. Combien de bo\u00eetes ont-ils utilis\u00e9 ?", "answer": 265.0}
+{"index": 535, "question": "Vous souhaitez offrir vos cartes de baseball \u00e0 vos 5 meilleurs amis. Vous disposez de 455 cartes de baseball. Combien chacun en obtiendrait-il si vous les partagiez \u00e9galement\u00a0?", "answer": 91.0}
+{"index": 536, "question": "Ellen avait 2 080 Legos, mais elle en a perdu 17. Combien de Legos a-t-elle maintenant ?", "answer": 2063.0}
+{"index": 537, "question": "Arthur a pr\u00e9par\u00e9 115 muffins. James en a cuisin\u00e9 12 fois plus. Combien de muffins James a-t-il pr\u00e9par\u00e9 ?", "answer": 1380.0}
+{"index": 538, "question": "Il y a 14 240 livres dans une biblioth\u00e8que. Ils sont dispos\u00e9s sur des \u00e9tag\u00e8res pouvant contenir chacune 8 livres. Combien d\u2019\u00e9tag\u00e8res y a-t-il dans la biblioth\u00e8que ?", "answer": 1780.0}
+{"index": 539, "question": "219 personnes vont au zoo et il y a 3 bus pour emmener les gens. Combien y en aura-t-il dans chaque bus si le m\u00eame nombre monte dans chacun et que tous les gens vont au zoo ?", "answer": 73.0}
+{"index": 540, "question": "J'ai 224 cents pour acheter des bonbons. Si chaque bonbon en vrac co\u00fbte 8 cents, combien de boules de gomme puis-je acheter\u00a0?", "answer": 28.0}
+{"index": 541, "question": "Mon chien avait des os. Ensuite, il a d\u00e9terr\u00e9 367 ossements. Il poss\u00e8de d\u00e9sormais 860 os. Avec combien d\u2019os a-t-il commenc\u00e9 ?", "answer": 493.0}
+{"index": 542, "question": "Jazmin poss\u00e9dait 1 209 poup\u00e9es et G\u00e9raldine 2 186 poup\u00e9es. S\u2019ils assemblaient leurs poup\u00e9es, combien en auraient-ils ?", "answer": 3395.0}
+{"index": 543, "question": "Mariela \u00e9tait \u00e0 l'h\u00f4pital et elle a re\u00e7u 403 cartes de r\u00e9tablissement de partout au pays. Lorsqu'elle est rentr\u00e9e chez elle, elle a re\u00e7u 287 cartes suppl\u00e9mentaires de la part de ses amis et de sa famille. Combien de cartes de r\u00e9tablissement Mariela a-t-elle re\u00e7ues\u00a0?", "answer": 690.0}
+{"index": 544, "question": "Cody a 14 ans. Sa grand-m\u00e8re a 6 fois son \u00e2ge. Quel \u00e2ge a la grand-m\u00e8re de Cody ?", "answer": 84.0}
+{"index": 545, "question": "Jorge a marqu\u00e9 156 buts en jouant au football la saison derni\u00e8re. Cette saison, il a marqu\u00e9 187 buts. Quel est le nombre total de buts marqu\u00e9s par Jorge ?", "answer": 343.0}
+{"index": 546, "question": "C\u00e9sar doit lire un livre de 563 pages pour l'\u00e9cole. Il a d\u00e9j\u00e0 lu 147 pages. Combien de pages lui reste-t-il \u00e0 lire ?", "answer": 416.0}
+{"index": 547, "question": "Omar et Karen ont pr\u00e9par\u00e9 des nems \u00e0 partager lors du repas-partage de l'\u00e9cole. Omar a roul\u00e9 219 nems. Karen a roul\u00e9 229 nems. Quel est le nombre total de nems qu\u2019Omar et Karen ont roul\u00e9s\u00a0?", "answer": 448.0}
+{"index": 548, "question": "Beka a parcouru 873 milles pour rendre visite \u00e0 sa tante. Jackson a parcouru 563 milles pour rendre visite \u00e0 sa tante. Combien de kilom\u00e8tres de plus Beka a-t-il parcouru par rapport \u00e0 Jackson ?", "answer": 310.0}
+{"index": 549, "question": "Darius a parcouru 679 miles pour rendre visite \u00e0 sa grand-m\u00e8re. Julia a parcouru 998 miles pour rendre visite \u00e0 sa grand-m\u00e8re. Quel est le nombre total de kilom\u00e8tres parcourus par Darius et Julia\u00a0?", "answer": 1677.0}
+{"index": 550, "question": "Isabel a achet\u00e9 900 morceaux de papier. Elle a utilis\u00e9 156 morceaux de papier. Combien de morceaux de papier lui reste-t-il ?", "answer": 744.0}
+{"index": 551, "question": "Mme Hilt a regard\u00e9 le compteur kilom\u00e9trique de sa voiture avant un voyage. Le compteur kilom\u00e9trique indiquait qu'elle avait parcouru 212,3 milles. Lorsqu'elle s'est arr\u00eat\u00e9e pour d\u00e9jeuner, le compteur kilom\u00e9trique indiquait 372,0. Combien de kilom\u00e8tres avait-elle parcouru ?", "answer": 159.7}
+{"index": 552, "question": "Mme Hilt a impressionn\u00e9 2 436 fans lors du match de basket-ball de vendredi. Si les supporters \u00e9taient assis en groupes \u00e9gaux sur 3 ensembles de gradins, combien de supporters y avait-il sur chaque plateau\u00a0?", "answer": 812.0}
+{"index": 553, "question": "Votre classe a organis\u00e9 une soir\u00e9e pizza. Il restait 0,375 pizza et 0,5 pizza suppl\u00e9mentaire. Vous les mettez tous les deux dans une seule bo\u00eete. Combien de pizza as-tu en tout ?", "answer": 0.875}
+{"index": 554, "question": "Une recette de g\u00e2teau n\u00e9cessite 0,6 tasse de sucre pour le gla\u00e7age et 0,2 tasse de sucre pour le g\u00e2teau. Cela repr\u00e9sente combien de sucre en tout ?", "answer": 0.8}
+{"index": 555, "question": "Apr\u00e8s une f\u00eate, il reste 0,625 % du g\u00e2teau. Ce soir-l\u00e0, grand fr\u00e8re mange 0,25 du g\u00e2teau. Combien reste-t-il apr\u00e8s cela ?", "answer": 0.375}
+{"index": 556, "question": "Vous sortez pour une longue promenade. Vous marchez 0,75 mile puis vous asseyez pour vous reposer. Ensuite, vous marchez 0,25 mile. Quelle distance avez-vous parcourue en tout ?", "answer": 1.0}
+{"index": 557, "question": "John a besoin de 2,50 $. Il a 0,75 $. De combien d\u2019argent suppl\u00e9mentaire a-t-il besoin ?", "answer": 1.75}
+{"index": 558, "question": "Jane ach\u00e8te une pomme pour 0,75 $ et paie avec une facture de 5,00 $. Quelle monnaie obtiendra-t-elle ?", "answer": 4.25}
+{"index": 559, "question": "John marche 0,7 miles jusqu'\u00e0 l'\u00e9cole et Nina marche 0,4 miles jusqu'\u00e0 l'\u00e9cole. Combien de distance John marche-t-il par rapport \u00e0 Nina ?", "answer": 0.3}
+{"index": 560, "question": "Un crayon p\u00e8se 28,3 grammes. Combien p\u00e8sent 5 crayons ?", "answer": 141.5}
+{"index": 561, "question": "Andrew a pass\u00e9 3 jours \u00e0 travailler sur son rapport scientifique. Il travaillait 2,5 heures par jour. Combien d'heures a-t-il travaill\u00e9 ?", "answer": 7.5}
